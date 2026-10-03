@@ -1,0 +1,88 @@
+{
+  "_leeme": "Noticias. Campos: id (sale en la dirección: noticia-<id>.html), fecha, titulo, resumen, cuerpo (lista de párrafos), imagen (nombre en media/, sin .jpg) + imagen_alt, fuente {nombre, url}. Fuentes: Bandomóvil «Segura de León Informa» y el acta del Pleno en el tablón de la sede.",
+  "noticias": [
+    {
+      "id": "pleno-28-septiembre-2026",
+      "fecha": "2026-09-28",
+      "titulo": "El Pleno aprueba la Cuenta General de 2025",
+      "resumen": "También el convenio de los servicios sociales de base para 2027. La guardería abrió con 23 niños.",
+      "cuerpo": [
+        "El Pleno ordinario del 28 de septiembre aprobó la Cuenta General de 2025 y el convenio con la Junta de Extremadura para los servicios sociales de base de 2027, que Segura comparte con Bodonal de la Sierra y Fuentes de León.",
+        "En los informes de la Alcaldía se dio cuenta de que la escuela infantil abrió el 17 de septiembre con 23 niños y con el tejado arreglado, de que se ha impermeabilizado el Pilar Viejo y de que han empezado las obras del parque del polígono industrial. También se adjudicará en breve la redacción del proyecto de la circunvalación.",
+        "Sobre los recibos de la basura del segundo trimestre, se informó de que se aplica una cuota transitoria mientras la Mancomunidad revisa la ordenanza."
+      ],
+      "imagen": "casa-consistorial",
+      "imagen_alt": "Fachada blanca del Ayuntamiento con soportales y reloj",
+      "fuente": { "nombre": "Acta del Pleno en el tablón de la sede", "url": "https://seguradeleon.sedelectronica.es/board" }
+    },
+    {
+      "id": "escuela-deportes-2026-27",
+      "fecha": "2026-09-22",
+      "titulo": "Empieza la temporada 2026/27 de la Escuela Municipal de Deportes",
+      "resumen": "Gimnasio, spinning, bodypump, kárate, escalada, fútbol y tenis, desde el 5 de octubre.",
+      "cuerpo": [
+        "En el gimnasio hay spinning, musculación guiada, gimnasia de mantenimiento, escalada, kárate, funcional y bodypump, y la sala de cardio y musculación abre de 9:00 a 22:00.",
+        "En el pabellón, psicomotricidad, multideporte, fútbol de prebenjamín a infantil, veteranos y tenis. Información del pabellón en el 638 376 968.",
+        "Spinning, kárate, funcional, bodypump y sala de cardio cuestan 10 €; la gimnasia de mantenimiento, 12 €, y la musculación guiada, 7 €. El tenis, 10 € al trimestre, y la escalada, 15 € al trimestre. Dos actividades juntas salen por 17 € y tres, por 25 €."
+      ],
+      "fuente": { "nombre": "Bandomóvil y web del Ayuntamiento", "url": "https://seguradeleon.bandomovil.com/comunicado.php?id=1646909" }
+    },
+    {
+      "id": "balance-capeas-2026",
+      "fecha": "2026-09-18",
+      "titulo": "Gracias por unas Capeas emocionantes",
+      "resumen": "El Ayuntamiento da las gracias a los ganaderos y a todos los que hicieron posibles las fiestas.",
+      "cuerpo": [
+        "Las Capeas de 2026 se celebraron del 11 al 16 de septiembre, con el pregón la noche del 10 y el día del Cristo el 14.",
+        "El Ayuntamiento agradece su trabajo a los ganaderos, que ceden el ganado; a quienes limpiaron las calles y abrieron y cerraron las portás; a las familias que montaron los tablaos y las troneras; al dispositivo de seguridad, y a los sanitarios, la Cruz Roja y los veterinarios."
+      ],
+      "imagen": "capeas-plaza",
+      "imagen_alt": "Un mozo corre delante de una vaquilla en la plaza cerrada, con el público en los tablaos",
+      "fuente": { "nombre": "Bandomóvil", "url": "https://seguradeleon.bandomovil.com/comunicado.php?id=1644867" }
+    },
+    {
+      "id": "calle-alfareria",
+      "fecha": "2026-08-11",
+      "titulo": "Abierta de nuevo la calle Alfarería, ya empedrada",
+      "resumen": "Ahora se trabaja en el emparchado en piedra de la carretera.",
+      "cuerpo": [
+        "Han terminado las obras de empedrado de la calle Alfarería, que vuelve a estar abierta al tráfico.",
+        "Los trabajos siguen en la carretera, con el emparchado en piedra de la pared de la zona baja."
+      ],
+      "fuente": { "nombre": "Bandomóvil", "url": "https://seguradeleon.bandomovil.com/comunicado.php?id=1618312" }
+    },
+    {
+      "id": "plaza-de-la-parada",
+      "fecha": "2026-07-15",
+      "titulo": "Empiezan las obras de la nueva Plaza de La Parada",
+      "resumen": "Un espacio de encuentro con un diseño nuevo que respeta la historia del lugar.",
+      "cuerpo": [
+        "Tras meses de tramitación, han empezado las obras de la nueva Plaza de La Parada, que quiere volver a ser un punto de encuentro para despedidas, bienvenidas y reencuentros.",
+        "El Ayuntamiento pide comprensión por las molestias mientras duren los trabajos."
+      ],
+      "fuente": { "nombre": "Bandomóvil", "url": "https://seguradeleon.bandomovil.com/comunicado.php?id=1595951" }
+    },
+    {
+      "id": "retablo-san-martin",
+      "fecha": "2026-06-05",
+      "titulo": "Restaurado el retablo de San Martín",
+      "resumen": "En la capilla de la Virgen del Rosario de la ermita del Cristo de la Reja.",
+      "cuerpo": [
+        "Ha terminado la restauración del retablo de San Martín, en la capilla de la Virgen del Rosario de la ermita del Cristo de la Reja. La ha hecho el servicio de restauración RECAR.",
+        "Se suma a la recuperación de la Virgen de la Antigua (2024), del último cuarto del siglo XIII, y a la del retablo renacentista de la Virgen del Rosario (2023)."
+      ],
+      "fuente": { "nombre": "Bandomóvil", "url": "https://seguradeleon.bandomovil.com/comunicado.php?id=1568238" }
+    },
+    {
+      "id": "pfea-2026",
+      "fecha": "2026-06-02",
+      "titulo": "PFEA 2026: 395.228 euros para obras y empleo",
+      "resumen": "Calles Ánimas y Santa Cruz, los encuentros de Cubillos y Buenavista y de Zurbarán y Diego Casquete, y pintura de edificios municipales.",
+      "cuerpo": [
+        "El Pleno aprobó la memoria de las obras del PFEA 2026, con una inversión de 395.228,69 euros, de los que 269.000 son para mano de obra.",
+        "Se urbanizará la calle Ánimas y la segunda fase de la calle Santa Cruz, se mejorará el encuentro de las calles Cubillos y Buenavista, se conectarán Zurbarán y Diego Casquete y se pintarán edificios municipales."
+      ],
+      "fuente": { "nombre": "Bandomóvil", "url": "https://seguradeleon.bandomovil.com/comunicado.php?id=1565768" }
+    }
+  ]
+}

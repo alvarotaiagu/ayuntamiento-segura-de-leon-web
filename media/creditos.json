@@ -1,0 +1,11 @@
+{
+  "castillo-cerro": { "titulo": "El castillo sobre el cerro", "autor": "muffinn (Wikimedia Commons)", "licencia": "CC BY 2.0", "url": "https://commons.wikimedia.org/wiki/File:Segura_de_Leon_castle_at_Badajoz_(7044667445).jpg" },
+  "castillo": { "titulo": "El castillo sobre el caserío", "autor": "Ana Rey (Wikimedia Commons)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Castillo_de_Segura_de_Le%C3%B3n_(15006188472).jpg" },
+  "caserio": { "titulo": "Calles y tejados desde el castillo", "autor": "Ana Rey (Wikimedia Commons)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Castillo_de_Segura_de_Le%C3%B3n_(16080810642).jpg" },
+  "iglesia-asuncion": { "titulo": "Iglesia de Nuestra Señora de la Asunción", "autor": "Ana Rey (Wikimedia Commons)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n._Segura_de_Le%C3%B3n_(15461851093)_(cropped).jpg" },
+  "convento-san-benito": { "titulo": "Convento de San Benito", "autor": "web del Ayuntamiento de Segura de León (galería, 2017)", "licencia": null, "url": "https://seguradeleon.es/galeria.php?album=1", "nota": "Solo para esta propuesta: es de su web y su aviso legal reserva los derechos de las imágenes" },
+  "ermita-remedios": { "titulo": "Ermita de los Remedios", "autor": "Ana Rey (Wikimedia Commons)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Ermita_de_los_Remedios.jpg" },
+  "casa-consistorial": { "titulo": "Casa Consistorial en la Plaza de España", "autor": "web del Ayuntamiento de Segura de León (página de la Casa Consistorial)", "licencia": null, "url": "https://seguradeleon.es/plantilla.php?enlace=ayuntamiento", "nota": "Solo para esta propuesta: es de su web y su aviso legal reserva los derechos de las imágenes" },
+  "capeas-entrada": { "titulo": "Capeas de 2014: la entrada del ganado", "autor": "Ana Rey (Wikimedia Commons)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Capeas2014_Entrada_(15231208651).jpg" },
+  "capeas-plaza": { "titulo": "Capeas de 2013 en la Plaza de España", "autor": "Ana Rey (Wikimedia Commons)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Capeas_2013_(13-09-2013)_(9739929523).jpg" }
+}

@@ -1,0 +1,2252 @@
+{
+  "_leeme": "Datos del municipio. Lo lee scripts/aplicar.mjs. Fuentes de cada dato en DATOS.md (ayuntamiento-segura-de-leon-bocetos/DATOS.md). Lo que no está confirmado lleva \"ejemplo\": true y sale con la etiqueta «Ejemplo».",
+  "slug": "segura-de-leon",
+  "nombre": "Segura de León",
+  "nombre_corto": "Segura",
+  "provincia": "Badajoz",
+  "comarca": "Tentudía",
+  "gentilicio": "segureños",
+  "habitantes": {
+    "valor": 1758,
+    "fuente": "INE, padrón a 1-1-2025"
+  },
+  "altitud_m": 698,
+  "lema": null,
+  "propuesta": true,
+  "indexar": false,
+  "url": "https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/",
+  "fecha_datos": "2026-10-03",
+  "web_actual": "https://seguradeleon.es",
+  "contacto": {
+    "direccion": "Plaza de España, 1",
+    "cp": "06270",
+    "telefono": "924 703 011",
+    "fax": "924 703 109",
+    "correo": "ayuntamiento@seguradeleon.es",
+    "mapa_consulta": "Ayuntamiento de Segura de León, Plaza de España 1, 06270 Segura de León, Badajoz"
+  },
+  "horario": {
+    "texto": "Lunes a viernes, de 8:00 a 14:00",
+    "tramos": [
+      {
+        "dias": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "de": "08:00",
+        "a": "14:00"
+      }
+    ],
+    "ejemplo": true
+  },
+  "redes": [
+    {
+      "nombre": "Facebook",
+      "url": "https://www.facebook.com/aytoseguradeleon"
+    },
+    {
+      "nombre": "Instagram",
+      "url": "https://www.instagram.com/ayuntamientoseguradeleon/"
+    },
+    {
+      "nombre": "YouTube",
+      "url": "https://www.youtube.com/channel/UCRa7SUGe9DOYKIx1OsiSRMw"
+    },
+    {
+      "nombre": "Turismo en Instagram",
+      "url": "https://www.instagram.com/turismo_segura_de_leon/"
+    }
+  ],
+  "canal_avisos": {
+    "nombre": "Segura de León Informa (Bandomóvil)",
+    "url": "https://seguradeleon.bandomovil.com/",
+    "texto": "El Ayuntamiento publica cada día en Bandomóvil los cortes, los plazos y las actividades. Puede recibirlos en el móvil con la aplicación gratuita o leerlos en su web.",
+    "otros": [
+      {
+        "nombre": "Canal de Telegram",
+        "url": "https://t.me/ayuntamientoSeguradeLeon"
+      }
+    ]
+  },
+  "plenos_video": null,
+  "sede": {
+    "tipo": "gestiona",
+    "base": "https://seguradeleon.sedelectronica.es",
+    "perfil_contratante": "https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=uJC17TpChbQQK2TEfXGy%2BA%3D%3D",
+    "instancia_general": "5161fa8d-970e-4b48-a506-b2ac34ceafe5",
+    "quejas": "ae05799c-df61-43d1-be43-31943561cea9"
+  },
+  "tablon_autorizado": false,
+  "hoja": {
+    "id": "",
+    "pestanas": {
+      "avisos": "Avisos",
+      "agenda": "Agenda",
+      "noticias": "Noticias"
+    }
+  },
+  "legal": {
+    "titular": "Ayuntamiento de Segura de León",
+    "nif": "P0612400B",
+    "dir3": "L01061247",
+    "direccion_registro": "Plaza de España, 1"
+  },
+  "escudo_nota": "Escudo aprobado en 2008, de Wikimedia Commons (Mfarinias, diseño original de Antonio Alfaro de Prado; CC BY-SA 4.0).",
+  "escudo_credito": {
+    "autor": "Mfarinias (diseño original de Antonio Alfaro de Prado)",
+    "licencia": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Escudo_Segura_de_Le%C3%B3n.svg"
+  },
+  "corporacion": {
+    "legislatura": "2023-2027",
+    "nota": "Gobierna el PSOE con mayoría absoluta. Según los BOP de 2023 a 2026 y el acta del Pleno del 28 de septiembre de 2026.",
+    "grupos": [
+      {
+        "sigla": "PSOE",
+        "nombre": "Partido Socialista",
+        "color": "#C8402A",
+        "trama": "liso",
+        "gobierno": true
+      },
+      {
+        "sigla": "PP",
+        "nombre": "Partido Popular",
+        "color": "#1F5FA8",
+        "trama": "rayas",
+        "gobierno": false
+      }
+    ],
+    "miembros": [
+      {
+        "nombre": "Isabel María Garduño Carmona",
+        "grupo": "PSOE",
+        "cargo": "Alcaldesa-presidenta",
+        "alcalde": true
+      },
+      {
+        "nombre": "Manuel Fariñas Aguilar",
+        "grupo": "PSOE",
+        "cargo": "Primer teniente de alcalde",
+        "delegacion": "Hacienda, Policía y Personal"
+      },
+      {
+        "nombre": "Pilar Bellido Garduño",
+        "grupo": "PSOE",
+        "cargo": "Segunda teniente de alcalde",
+        "delegacion": "Turismo y Transformación Digital"
+      },
+      {
+        "nombre": "Rafael Vázquez Falcón",
+        "grupo": "PSOE",
+        "cargo": "Tercer teniente de alcalde",
+        "delegacion": "Cultura, Colectivos Locales y Mayordomía de San Roque"
+      },
+      {
+        "nombre": "Isabel Montero Cruzada",
+        "grupo": "PSOE",
+        "cargo": "Concejala",
+        "delegacion": "Sanidad, Bienestar Social, Infraestructuras Agrícolas y Ganaderas y Caminos"
+      },
+      {
+        "nombre": "María del Rocío Menaya Sánchez",
+        "grupo": "PSOE",
+        "cargo": "Concejala",
+        "delegacion": "Infancia, Juventud, Igualdad e Inclusión"
+      },
+      {
+        "nombre": "Estrella Carpallo Rodríguez",
+        "grupo": "PP",
+        "cargo": "Portavoz del grupo popular"
+      },
+      {
+        "nombre": "María del Vall Chávez Maya",
+        "grupo": "PP",
+        "cargo": "Concejala"
+      },
+      {
+        "nombre": "María de los Ángeles Miranda Santana",
+        "grupo": "PP",
+        "cargo": "Concejala"
+      }
+    ],
+    "secretaria": "Isabel Rojas Herrera, secretaria-interventora"
+  },
+  "alcaldia": {
+    "saluda": "Esta web es la puerta del Ayuntamiento abierta todo el día. Aquí puede hacer sus trámites sin desplazarse, enterarse de lo que pasa en el pueblo y saber a quién dirigirse en cada caso.",
+    "saluda_ejemplo": true
+  },
+  "quien": [
+    {
+      "tema": "Impuestos, recibos y Policía Local",
+      "nombre": "Manuel Fariñas Aguilar",
+      "cargo": "Concejal de Hacienda, Policía y Personal",
+      "portada": true
+    },
+    {
+      "tema": "Turismo, castillo y museo",
+      "nombre": "Pilar Bellido Garduño",
+      "cargo": "Concejala de Turismo y Transformación Digital",
+      "portada": true
+    },
+    {
+      "tema": "Cultura, asociaciones y San Roque",
+      "nombre": "Rafael Vázquez Falcón",
+      "cargo": "Concejal de Cultura y Colectivos Locales",
+      "portada": true
+    },
+    {
+      "tema": "Salud, servicios sociales, caminos y campo",
+      "nombre": "Isabel Montero Cruzada",
+      "cargo": "Concejala de Sanidad y Bienestar Social",
+      "portada": true
+    },
+    {
+      "tema": "Infancia, juventud e igualdad",
+      "nombre": "María del Rocío Menaya Sánchez",
+      "cargo": "Concejala de Infancia, Juventud, Igualdad e Inclusión"
+    },
+    {
+      "tema": "Obras, fiestas, deportes y empleo",
+      "nombre": "Isabel María Garduño Carmona",
+      "cargo": "Alcaldesa"
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Ayuntamiento",
+      "nota": "Registro, padrón y escuela de idiomas",
+      "direccion": "Plaza de España, 1",
+      "telefono": "924 703 011",
+      "grupo": "Ayuntamiento"
+    },
+    {
+      "nombre": "Oficina de Turismo",
+      "nota": "Castillo, museo y visitas. También por WhatsApp",
+      "direccion": "C/ Castillo, 1",
+      "horario": "Martes a jueves, de 10:00 a 14:30; viernes, de 10:00 a 14:30 y de 17:00 a 19:00. Fines de semana, en el castillo",
+      "tramos": [
+        {
+          "dias": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "de": "10:00",
+          "a": "14:30"
+        },
+        {
+          "dias": [
+            5
+          ],
+          "de": "17:00",
+          "a": "19:00"
+        }
+      ],
+      "telefono": "615 625 117",
+      "grupo": "Ayuntamiento"
+    },
+    {
+      "nombre": "Guardia Civil",
+      "direccion": "C/ Guardia Civil, 5",
+      "telefono": "924 703 130",
+      "grupo": "Urgencias y seguridad"
+    },
+    {
+      "nombre": "Policía Local",
+      "nota": "Móvil y WhatsApp",
+      "direccion": "Plaza de España, 1 (planta primera)",
+      "telefono": "649 562 513",
+      "grupo": "Urgencias y seguridad"
+    },
+    {
+      "nombre": "Consultorio médico",
+      "nota": "Cita previa",
+      "direccion": "C/ Iglesia, 7",
+      "telefono": "924 280 729",
+      "grupo": "Salud"
+    },
+    {
+      "nombre": "Urgencias: Centro de Salud de Fregenal",
+      "direccion": "C/ Juan Carlos I, 4, Fregenal de la Sierra",
+      "telefono": "924 701 250",
+      "grupo": "Salud"
+    },
+    {
+      "nombre": "Cita previa del SES",
+      "nota": "Para cualquier consultorio",
+      "telefono": "900 100 737",
+      "grupo": "Salud"
+    },
+    {
+      "nombre": "Farmacia",
+      "direccion": "Plaza de España, 9",
+      "telefono": "924 703 524",
+      "grupo": "Salud"
+    },
+    {
+      "nombre": "Pisos tutelados y centro de día San Roque",
+      "telefono": "924 722 401",
+      "grupo": "Salud"
+    },
+    {
+      "nombre": "Aula Terapéutica Municipal",
+      "nota": "Actividad física adaptada, los jueves de 11:00 a 12:00 (5 € al mes)",
+      "direccion": "Sede de la Asociación de Discapacitados Cristo de la Reja",
+      "grupo": "Salud"
+    },
+    {
+      "nombre": "Colegio Ntra. Sra. de Guadalupe",
+      "direccion": "Avda. Ganaderos de Capeas, s/n",
+      "telefono": "924 022 416",
+      "grupo": "Educación"
+    },
+    {
+      "nombre": "Instituto Ildefonso Serrano",
+      "direccion": "Avda. Extremadura, s/n",
+      "telefono": "924 290 700",
+      "grupo": "Educación"
+    },
+    {
+      "nombre": "Escuela Infantil «Colorines»",
+      "nota": "Matrícula en la Secretaría del Ayuntamiento",
+      "telefono": "646 261 740",
+      "grupo": "Educación"
+    },
+    {
+      "nombre": "Biblioteca «Maestro Don Jacinto»",
+      "direccion": "C/ Manuel Medina Gata, 2",
+      "horario": "Lunes a viernes, de 16:00 a 20:00 (julio y agosto, de 10:00 a 14:00)",
+      "tramos": [
+        {
+          "dias": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "de": "16:00",
+          "a": "20:00"
+        }
+      ],
+      "telefono": "924 703 525",
+      "grupo": "Cultura y deporte"
+    },
+    {
+      "nombre": "Aula Municipal de Música",
+      "nota": "Piano, guitarra, percusión, viento y lenguaje musical",
+      "telefono": "656 962 330",
+      "grupo": "Cultura y deporte"
+    },
+    {
+      "nombre": "Pabellón y pista de pádel",
+      "nota": "Escuela Municipal de Deportes",
+      "telefono": "638 376 968",
+      "grupo": "Cultura y deporte"
+    },
+    {
+      "nombre": "Piscina municipal",
+      "nota": "Abre en verano",
+      "telefono": "924 703 210",
+      "grupo": "Cultura y deporte"
+    },
+    {
+      "nombre": "Recogida Puerta a Puerta y tasa de basura",
+      "nota": "Mancomunidad de Tentudía. Cubo, de 20:00 a 22:00",
+      "telefono": "924 516 108",
+      "grupo": "Residuos y agua"
+    },
+    {
+      "nombre": "Agua: oficina",
+      "telefono": "924 500 977",
+      "grupo": "Residuos y agua"
+    },
+    {
+      "nombre": "Agua: averías (guardia)",
+      "telefono": "616 933 657",
+      "grupo": "Residuos y agua"
+    },
+    {
+      "nombre": "Averías de electricidad",
+      "telefono": "924 724 077",
+      "grupo": "Residuos y agua"
+    },
+    {
+      "nombre": "Correos",
+      "direccion": "Plaza de España",
+      "telefono": "924 703 031",
+      "grupo": "Otros"
+    },
+    {
+      "nombre": "Parroquia",
+      "telefono": "924 703 054",
+      "grupo": "Otros"
+    },
+    {
+      "nombre": "Notaría",
+      "telefono": "924 703 010",
+      "grupo": "Otros"
+    },
+    {
+      "nombre": "Oficina Veterinaria de Zona",
+      "telefono": "924 022 400",
+      "grupo": "Otros"
+    },
+    {
+      "nombre": "Mercadillo",
+      "nota": "Los viernes",
+      "direccion": "Plaza de España",
+      "grupo": "Otros"
+    }
+  ],
+  "instalaciones": [
+    {
+      "grupo": "Deporte",
+      "items": [
+        {
+          "nombre": "Pabellón Municipal y pista de pádel",
+          "texto": "Escuela Municipal de Deportes: psicomotricidad, multideporte, fútbol, veteranos y tenis.",
+          "telefono": "638 376 968"
+        },
+        {
+          "nombre": "Sala de cardio y musculación",
+          "texto": "También spinning, bodypump, funcional, kárate, escalada y gimnasia de mantenimiento en el gimnasio del colegio.",
+          "horario": "De 9:00 a 22:00",
+          "precio": "10 €; las actividades, de 7 a 12 €"
+        },
+        {
+          "nombre": "Piscina municipal",
+          "horario": "En verano, todos los días, de 12:30 a 20:30 (horario de 2026)",
+          "telefono": "924 703 210"
+        }
+      ]
+    },
+    {
+      "grupo": "Parques",
+      "items": [
+        {
+          "nombre": "Parque del Muladar",
+          "texto": "Pinos y moreras, columpios, toboganes y un circuito biosaludable."
+        },
+        {
+          "nombre": "Parque del Emigrante",
+          "texto": "Junto al instituto, con juegos infantiles y un monumento a la tronera y la tranca de las Capeas."
+        },
+        {
+          "nombre": "Parque de los Llanos de Santa María",
+          "texto": "Sobre el antiguo campo de fútbol de los Cañizos: arboleda, sombra y bancos."
+        },
+        {
+          "nombre": "Parque de la Tranca",
+          "texto": "Frente al colegio."
+        }
+      ]
+    },
+    {
+      "grupo": "Residuos y vehículos",
+      "items": [
+        {
+          "nombre": "Punto Limpio",
+          "texto": "Para los residuos que no deben tirarse en los contenedores normales.",
+          "horario": "Lunes y miércoles, de 16:00 a 20:00; martes, de 11:00 a 14:00 y de 15:00 a 18:00; jueves, de 11:00 a 14:00; viernes, de 8:30 a 14:30, y sábado, de 9:00 a 13:00",
+          "nota": "Viernes y sábado, solo los días pares. Horario de invierno."
+        },
+        {
+          "nombre": "Área municipal de autocaravanas",
+          "texto": "Vaciado de aguas negras, agua potable, pernocta y alumbrado nocturno."
+        }
+      ]
+    }
+  ],
+  "urgencias": [
+    {
+      "nombre": "Emergencias",
+      "telefono": "112"
+    },
+    {
+      "nombre": "Violencia contra las mujeres",
+      "telefono": "016"
+    }
+  ],
+  "listin_corto": [
+    "Emergencias",
+    "Guardia Civil",
+    "Consultorio médico",
+    "Oficina de Turismo"
+  ],
+  "tramites": {
+    "atajos": [
+      {
+        "nombre": "Empadronarme",
+        "nota": "Alta o renovación en el padrón",
+        "id": "d120f65c-c936-4a95-bd50-e7ae970ca149"
+      },
+      {
+        "nombre": "Volante de empadronamiento",
+        "nota": "Certificado o volante",
+        "id": "1c74bc66-8b69-4f3c-8183-d3591f0504ed"
+      },
+      {
+        "nombre": "Licencia de obra",
+        "nota": "Licencia o autorización urbanística",
+        "id": "15fabacb-83b1-47d1-b435-508245672051"
+      },
+      {
+        "nombre": "Avisar de una incidencia",
+        "nota": "Una farola, un bache, un contenedor",
+        "id": "d643e8cf-0824-4617-a997-c523799b4a93"
+      }
+    ],
+    "temas": [
+      {
+        "nombre": "Vivir aquí",
+        "nota": "Padrón, certificados, boda civil",
+        "icono": "casa",
+        "tramites": [
+          {
+            "nombre": "Empadronarme o renovar",
+            "id": "d120f65c-c936-4a95-bd50-e7ae970ca149"
+          },
+          {
+            "nombre": "Cambiar mis datos del padrón",
+            "id": "d74e17fb-69a1-4ef6-931a-d0381be7ffdc"
+          },
+          {
+            "nombre": "Volante de empadronamiento",
+            "id": "1c74bc66-8b69-4f3c-8183-d3591f0504ed"
+          },
+          {
+            "nombre": "Volante de convivencia",
+            "id": "e268d9e6-d835-4922-be8f-a18c9738a331"
+          },
+          {
+            "nombre": "Casarme en el Ayuntamiento",
+            "id": "fe871c4e-f81e-4357-a5b8-94ef42a9da42"
+          }
+        ]
+      },
+      {
+        "nombre": "Casa, obras y campo",
+        "nota": "Licencias, agua, quemas",
+        "icono": "obra",
+        "tramites": [
+          {
+            "nombre": "Obra pequeña: declaración responsable",
+            "id": "5d383e20-32a5-4fcf-8725-e51c51e83e6a"
+          },
+          {
+            "nombre": "Obra mayor: licencia urbanística",
+            "id": "15fabacb-83b1-47d1-b435-508245672051"
+          },
+          {
+            "nombre": "Licencia de ocupación",
+            "id": "b834b3fa-3690-4626-9c92-d82669d6f26f"
+          },
+          {
+            "nombre": "Dar de alta el agua",
+            "id": "5697411e-7a60-4df6-9867-07258add24de"
+          },
+          {
+            "nombre": "Cambiar el titular del agua",
+            "id": "a4806ac2-0236-4222-9c47-52bdaaa42c9e"
+          },
+          {
+            "nombre": "Permiso para quemar rastrojos",
+            "id": "e8f22e0c-b09a-4c0e-8cb1-555f661bb086"
+          }
+        ]
+      },
+      {
+        "nombre": "Pagos e impuestos",
+        "nota": "Recibos, aplazamientos, bonificaciones",
+        "icono": "recibo",
+        "tramites": [
+          {
+            "nombre": "Domiciliar recibos",
+            "id": "a93cd417-195c-40c5-acf2-9a92b36c8809"
+          },
+          {
+            "nombre": "Pagar una autoliquidación",
+            "id": "65228bd7-0692-484e-afd5-4f18d4faa7f5"
+          },
+          {
+            "nombre": "Aplazar o fraccionar un pago",
+            "id": "1fb37055-447d-48b6-8ea6-a670f5a9629b"
+          },
+          {
+            "nombre": "Pedir una bonificación o exención",
+            "id": "4f89832a-e472-4c39-bbd4-d519e35946dd"
+          }
+        ]
+      },
+      {
+        "nombre": "Familia, mayores y ocio",
+        "nota": "Ayuda a domicilio, servicios sociales, cursos",
+        "icono": "familia",
+        "tramites": [
+          {
+            "nombre": "Teleasistencia o ayuda a domicilio",
+            "id": "70b01f0b-8951-4ebe-aadc-75d6de315b7e"
+          },
+          {
+            "nombre": "Darme de alta en servicios sociales",
+            "id": "1eadf89e-c7e0-4c8e-bdf4-4c2bb9a7ea09"
+          },
+          {
+            "nombre": "Apuntarme a cursos y actividades",
+            "id": "1086e3fa-b560-4deb-9c55-66bed39d82f4"
+          }
+        ]
+      },
+      {
+        "nombre": "Opinar y avisar",
+        "nota": "Quejas, incidencias, información pública",
+        "icono": "mensaje",
+        "tramites": [
+          {
+            "nombre": "Avisar de una incidencia en la calle",
+            "id": "d643e8cf-0824-4617-a997-c523799b4a93"
+          },
+          {
+            "nombre": "Quejas y sugerencias",
+            "id": "ae05799c-df61-43d1-be43-31943561cea9"
+          },
+          {
+            "nombre": "Pedir información pública",
+            "id": "cb08f2a7-e5f7-42eb-bbfa-13a2b485e606"
+          },
+          {
+            "nombre": "Cualquier otra solicitud",
+            "id": "5161fa8d-970e-4b48-a506-b2ac34ceafe5"
+          }
+        ]
+      },
+      {
+        "nombre": "Trabajo y empleo",
+        "nota": "Procesos de selección del Ayuntamiento",
+        "icono": "mensaje",
+        "tramites": [
+          {
+            "nombre": "Presentarme a un proceso de selección",
+            "id": "970c9466-4c31-4645-bebc-61e2d9f413ff"
+          },
+          {
+            "nombre": "Aportar documentos a una solicitud",
+            "id": "3a04a0b4-b6ff-4fb0-97f3-9f1fdd2c97ab"
+          }
+        ]
+      }
+    ],
+    "momentos": [
+      {
+        "nombre": "Me vengo a vivir aquí",
+        "nota": "Lo que conviene hacer las primeras semanas.",
+        "pasos": [
+          {
+            "texto": "Empadronarme",
+            "id": "d120f65c-c936-4a95-bd50-e7ae970ca149"
+          },
+          {
+            "texto": "Poner el agua a mi nombre",
+            "id": "a4806ac2-0236-4222-9c47-52bdaaa42c9e"
+          },
+          {
+            "texto": "Domiciliar los recibos",
+            "id": "a93cd417-195c-40c5-acf2-9a92b36c8809"
+          },
+          {
+            "texto": "Apuntarme a cursos y actividades",
+            "id": "1086e3fa-b560-4deb-9c55-66bed39d82f4"
+          }
+        ]
+      },
+      {
+        "nombre": "Voy a hacer obra",
+        "nota": "Según el tamaño de la obra, un papel u otro.",
+        "pasos": [
+          {
+            "texto": "Obra pequeña: declaración responsable",
+            "id": "5d383e20-32a5-4fcf-8725-e51c51e83e6a"
+          },
+          {
+            "texto": "Obra mayor: licencia urbanística",
+            "id": "15fabacb-83b1-47d1-b435-508245672051"
+          },
+          {
+            "texto": "Al terminar una vivienda: licencia de ocupación",
+            "id": "b834b3fa-3690-4626-9c92-d82669d6f26f"
+          }
+        ]
+      },
+      {
+        "nombre": "Tengo que pagar algo",
+        "nota": "Recibos, plazos y descuentos.",
+        "pasos": [
+          {
+            "texto": "Pagar una autoliquidación",
+            "id": "65228bd7-0692-484e-afd5-4f18d4faa7f5"
+          },
+          {
+            "texto": "Domiciliar para no olvidarme",
+            "id": "a93cd417-195c-40c5-acf2-9a92b36c8809"
+          },
+          {
+            "texto": "Aplazar o fraccionar",
+            "id": "1fb37055-447d-48b6-8ea6-a670f5a9629b"
+          },
+          {
+            "texto": "Pedir una bonificación",
+            "id": "4f89832a-e472-4c39-bbd4-d519e35946dd"
+          }
+        ]
+      },
+      {
+        "nombre": "Ha pasado algo en mi calle",
+        "nota": "Un bache, una farola, un contenedor.",
+        "pasos": [
+          {
+            "texto": "Avisar de la incidencia",
+            "id": "d643e8cf-0824-4617-a997-c523799b4a93"
+          },
+          {
+            "texto": "Si es urgente, llame al 112"
+          },
+          {
+            "texto": "Dejar una queja o sugerencia",
+            "id": "ae05799c-df61-43d1-be43-31943561cea9"
+          }
+        ]
+      },
+      {
+        "nombre": "Busco trabajo en el Ayuntamiento",
+        "nota": "Las bases de cada convocatoria salen en el tablón.",
+        "pasos": [
+          {
+            "texto": "Ver las convocatorias en el tablón",
+            "url": "https://seguradeleon.sedelectronica.es/board"
+          },
+          {
+            "texto": "Presentar mi solicitud",
+            "id": "970c9466-4c31-4645-bebc-61e2d9f413ff"
+          }
+        ]
+      }
+    ],
+    "sinonimos": {
+      "empadronarme": [
+        "padrón",
+        "empadronamiento"
+      ],
+      "empadronar": [
+        "padrón"
+      ],
+      "censo": [
+        "padrón"
+      ],
+      "obra": [
+        "urbanística",
+        "obras",
+        "licencia de ocupación"
+      ],
+      "obras": [
+        "urbanística"
+      ],
+      "reforma": [
+        "urbanística"
+      ],
+      "placas": [
+        "fotovoltaica"
+      ],
+      "solar": [
+        "fotovoltaica"
+      ],
+      "agua": [
+        "abastecimiento",
+        "aguas",
+        "contadores"
+      ],
+      "contador": [
+        "contadores"
+      ],
+      "recibo": [
+        "tributos",
+        "domiciliación",
+        "autoliquidación"
+      ],
+      "recibos": [
+        "tributos",
+        "domiciliación"
+      ],
+      "pagar": [
+        "autoliquidación",
+        "tributo",
+        "aplazamiento"
+      ],
+      "impuesto": [
+        "tributo",
+        "tributos",
+        "padrón fiscal"
+      ],
+      "ibi": [
+        "tributo",
+        "catastral"
+      ],
+      "descuento": [
+        "bonificación"
+      ],
+      "boda": [
+        "matrimonio"
+      ],
+      "casarme": [
+        "matrimonio"
+      ],
+      "casarse": [
+        "matrimonio"
+      ],
+      "queja": [
+        "quejas",
+        "sugerencias",
+        "reclamación"
+      ],
+      "reclamar": [
+        "reclamación",
+        "recurso"
+      ],
+      "bache": [
+        "incidencia",
+        "vía pública"
+      ],
+      "farola": [
+        "incidencia",
+        "vía pública"
+      ],
+      "contenedor": [
+        "incidencia"
+      ],
+      "calle": [
+        "vía pública"
+      ],
+      "certificado": [
+        "volante",
+        "certificado"
+      ],
+      "volante": [
+        "volante"
+      ],
+      "perro": [
+        "animales"
+      ],
+      "mascota": [
+        "animales"
+      ],
+      "quemar": [
+        "quema",
+        "rastrojos"
+      ],
+      "rastrojos": [
+        "quema"
+      ],
+      "mayores": [
+        "teleasistencia",
+        "ayuda a domicilio",
+        "servicios sociales"
+      ],
+      "dependencia": [
+        "ayuda a domicilio",
+        "servicios sociales"
+      ],
+      "curso": [
+        "cursos",
+        "actividades"
+      ],
+      "deporte": [
+        "actividades"
+      ],
+      "nicho": [
+        "funerario",
+        "nichos"
+      ],
+      "cementerio": [
+        "funerario",
+        "nichos",
+        "exhumación"
+      ],
+      "aparcamiento": [
+        "tarjeta de aparcamiento"
+      ],
+      "discapacidad": [
+        "tarjeta de aparcamiento",
+        "accesible"
+      ],
+      "papel": [
+        "instancia general",
+        "aportación de documentos"
+      ],
+      "solicitud": [
+        "instancia general"
+      ],
+      "mercadillo": [
+        "venta ambulante"
+      ],
+      "taxi": [
+        "auto-taxi",
+        "auto -taxi"
+      ],
+      "fiesta": [
+        "eventos",
+        "espectáculos",
+        "pirotécnicos"
+      ],
+      "ayuda": [
+        "subvención",
+        "servicios sociales"
+      ],
+      "subvencion": [
+        "subvención"
+      ],
+      "trabajo": [
+        "selección",
+        "personal"
+      ],
+      "empleo": [
+        "selección"
+      ],
+      "oposicion": [
+        "selección"
+      ]
+    },
+    "todos": [
+      {
+        "nombre": "Abastecimiento de Aguas (Baja)",
+        "id": "27666b59-7238-4f55-9968-d45406f433f9"
+      },
+      {
+        "nombre": "Abastecimiento de Aguas (Cambio de Titularidad)",
+        "id": "a4806ac2-0236-4222-9c47-52bdaaa42c9e"
+      },
+      {
+        "nombre": "Acceso al Servicio de Teleasistencia o de Ayuda a Domicilio",
+        "id": "70b01f0b-8951-4ebe-aadc-75d6de315b7e"
+      },
+      {
+        "nombre": "Alta de Abastecimiento y Suministro de Agua Potable",
+        "id": "5697411e-7a60-4df6-9867-07258add24de"
+      },
+      {
+        "nombre": "Alta, Baja o Modificación de Datos en el Registro de Animales",
+        "id": "30e885b0-2005-4c8e-aa16-79e63140e436"
+      },
+      {
+        "nombre": "Aportación de Documentos",
+        "id": "3a04a0b4-b6ff-4fb0-97f3-9f1fdd2c97ab"
+      },
+      {
+        "nombre": "Autoliquidación",
+        "id": "65228bd7-0692-484e-afd5-4f18d4faa7f5"
+      },
+      {
+        "nombre": "Aviso de Incidencia en la Vía Pública",
+        "id": "d643e8cf-0824-4617-a997-c523799b4a93"
+      },
+      {
+        "nombre": "Baja Voluntaria de la Autorización para el Ejercicio de la Venta Ambulante",
+        "id": "a98dc0b1-de78-4419-b0d2-618ce6a58f45"
+      },
+      {
+        "nombre": "Compensación de Deudas Tributarias",
+        "id": "f7a523be-6085-41da-a981-48452bab781e"
+      },
+      {
+        "nombre": "Comunicaciones sobre Requisitos de Accesibilidad",
+        "id": "34801c79-0732-49f0-830d-b52652a01e80"
+      },
+      {
+        "nombre": "Comunicación",
+        "id": "6d1f216d-c95d-4ad7-a2fa-16ca0b0d1cd4"
+      },
+      {
+        "nombre": "Comunicación del Cambio de Datos que figuran en el Padrón Fiscal",
+        "id": "e3cc8077-25a4-4297-8e44-fd54adc50c88"
+      },
+      {
+        "nombre": "Comunicación o Declaración Responsable de Actividades y Espectáculos Públicos",
+        "id": "36fa4d83-67b8-4671-808c-09185dae1c62"
+      },
+      {
+        "nombre": "Consignación en la Oficina de Objetos Perdidos",
+        "id": "7fdc3c6c-7397-4e29-a101-3a68824a55c9"
+      },
+      {
+        "nombre": "Constitución de Garantía",
+        "id": "8e285144-5df7-411a-8649-de1cca8e4fbd"
+      },
+      {
+        "nombre": "Corte de la Vía Pública",
+        "id": "e1589c6a-9246-45f5-9132-fa5dd98ba76a"
+      },
+      {
+        "nombre": "Declaración Responsable",
+        "id": "2c557ac9-fd3a-4a47-bda3-f42a082861db"
+      },
+      {
+        "nombre": "Declaración Responsable o Comunicación en Materia Urbanística",
+        "id": "5d383e20-32a5-4fcf-8725-e51c51e83e6a"
+      },
+      {
+        "nombre": "Declaración Responsable o Comunicación en Materia de Actividades",
+        "id": "df2d1685-af1d-454c-90dd-f0d077868573"
+      },
+      {
+        "nombre": "Declaración de Alteración Catastral de un Bien Inmueble",
+        "id": "f4d91759-67a9-454a-ada9-41498dc1fb7b"
+      },
+      {
+        "nombre": "Denuncia",
+        "id": "197fd308-4f33-4a7c-b77d-17d68993b8e8"
+      },
+      {
+        "nombre": "Domiciliación de Tributos Periódicos (alta, baja y modificación)",
+        "id": "a93cd417-195c-40c5-acf2-9a92b36c8809"
+      },
+      {
+        "nombre": "Ejercicio de Derechos ante el Registro de Asociaciones",
+        "id": "d66b3878-d39e-4e7e-bc85-bc37e27852ec"
+      },
+      {
+        "nombre": "Ejercicio de Derechos en Relación con el Registro de Uniones o Parejas de Hecho",
+        "id": "a8bdd0e8-3a1a-49b2-a8a6-ce0401f2006b"
+      },
+      {
+        "nombre": "Ejercicio de los Derechos de Rectificación, Supresión, Limitación, Portabilidad u Oposición en relación con Datos de Carácter Personal",
+        "id": "daae6a9b-bb8d-485a-816a-940bc433eb66"
+      },
+      {
+        "nombre": "Ejercicio del Derecho de Acceso (Datos de Carácter Personal)",
+        "id": "fa0b2865-b1ad-4cd2-b998-c63113f1689c"
+      },
+      {
+        "nombre": "Exhumación en Nichos, Panteones, Columbarios...",
+        "id": "429370fc-157c-44d1-a8cf-0ae460b810db"
+      },
+      {
+        "nombre": "Formulario de Contacto con el Delegado de Protección de Datos",
+        "id": "2b75a7ef-9aeb-4f6e-bd02-936334b22679"
+      },
+      {
+        "nombre": "Ingreso en Centro de Asistencia Social",
+        "id": "af93fe26-e314-4fd8-8a8d-a526ea39cf68"
+      },
+      {
+        "nombre": "Inscripción en Actividades y Cursos",
+        "id": "1086e3fa-b560-4deb-9c55-66bed39d82f4"
+      },
+      {
+        "nombre": "Instancia General",
+        "id": "5161fa8d-970e-4b48-a506-b2ac34ceafe5"
+      },
+      {
+        "nombre": "Interposición de Recurso Administrativo",
+        "id": "b001292e-cdf4-4e48-89db-6eae243fd878"
+      },
+      {
+        "nombre": "Interposición de Recurso Especial en Materia de Contratación",
+        "id": "252ba3d7-fb9a-4d7c-a33f-6e3b58fb06f7"
+      },
+      {
+        "nombre": "Interposición de Recurso de Reposición o de Apelación ante el Juez de Paz",
+        "id": "ffe7e592-8358-4889-9df5-cd79f1927866"
+      },
+      {
+        "nombre": "Interposición de un Recurso de Reposición de Actos de Naturaleza Tributaria",
+        "id": "a0ef28ba-fb41-4289-921e-61b4a31b7de2"
+      },
+      {
+        "nombre": "Justificación de Subvención Concedida",
+        "id": "6f0f91f4-6c6c-4a6f-b1c9-6aea9b293f58"
+      },
+      {
+        "nombre": "Licencia de Actividad (Modificación o Renuncia)",
+        "id": "6a5af5af-b462-4ca9-8062-5ba4c95a4241"
+      },
+      {
+        "nombre": "Licencia de Actividades y Espectáculos Públicos",
+        "id": "87679048-b42c-47a7-8c33-3d54d162f988"
+      },
+      {
+        "nombre": "Licencia de Aprovechamiento",
+        "id": "b4931ddf-2d87-471a-8433-a2721751b129"
+      },
+      {
+        "nombre": "Licencia de Auto -Taxi (Transmisión)",
+        "id": "8190625d-2f7b-44c1-9624-47dd39c5103d"
+      },
+      {
+        "nombre": "Licencia de Vehículos Especiales",
+        "id": "ad4b6040-7ed9-4aa7-b19a-55d92aab30cb"
+      },
+      {
+        "nombre": "Liquidación (a Instancia de Parte)",
+        "id": "f1dc66f0-fed7-46bb-997b-73c609457f2b"
+      },
+      {
+        "nombre": "Modificación del Planeamiento de Desarrollo",
+        "id": "6e8237a3-0b83-469d-b0ad-70159b9a9c26"
+      },
+      {
+        "nombre": "Modificación, Revocación o Renuncia de la Licencia de Ocupación",
+        "id": "a7e311fe-df7a-4b5d-863b-3f1c4b8ca71f"
+      },
+      {
+        "nombre": "Otorgar Poderes de Representación",
+        "id": "a9807f3d-0ce2-4e16-ac6a-786f4a8aa3d0"
+      },
+      {
+        "nombre": "Participación en la Elaboración de Normativa",
+        "id": "eec1d111-c724-4967-b122-077375011648"
+      },
+      {
+        "nombre": "Petición de Consulta Popular",
+        "id": "d8c4b9b6-1cdd-4944-b7be-f76fbb3720e5"
+      },
+      {
+        "nombre": "Planeamiento General (Modificación)",
+        "id": "96514574-aca1-40e1-a800-e06485e6d016"
+      },
+      {
+        "nombre": "Quejas y Sugerencias",
+        "id": "ae05799c-df61-43d1-be43-31943561cea9"
+      },
+      {
+        "nombre": "Reclamaciones de Consumo",
+        "id": "9f707e83-9fc0-4425-b66b-2b28c0498894"
+      },
+      {
+        "nombre": "Reclamación contra la Solicitud de Información Accesible y Queja",
+        "id": "daf77f45-60d1-47f8-9fcb-ca9ea7c88b32"
+      },
+      {
+        "nombre": "Resolución de Contrataciones Patrimoniales",
+        "id": "04c7cc72-89c1-4a8b-9188-6b11c48cf81b"
+      },
+      {
+        "nombre": "Servicios Públicos (Alta, Baja o Modificación)",
+        "id": "5c2a56b7-1cc7-4f53-ad58-766047e3a07a"
+      },
+      {
+        "nombre": "Solicitud de Acceso a la Información Pública por los Ciudadanos",
+        "id": "cb08f2a7-e5f7-42eb-bbfa-13a2b485e606"
+      },
+      {
+        "nombre": "Solicitud de Acceso a una Notificación Rechazada",
+        "id": "11df4bb2-d63f-455e-997a-e0982d8af50f"
+      },
+      {
+        "nombre": "Solicitud de Actuación Urbanística",
+        "id": "f91e4a50-d23d-45c1-a19b-b148da37c59f"
+      },
+      {
+        "nombre": "Solicitud de Adhesión al Sistema de Arbitraje",
+        "id": "ab96fd31-5837-4ed8-ba56-77145f24bbda"
+      },
+      {
+        "nombre": "Solicitud de Alta en los Servicios Sociales",
+        "id": "1eadf89e-c7e0-4c8e-bdf4-4c2bb9a7ea09"
+      },
+      {
+        "nombre": "Solicitud de Alta o Renovación de la Inscripción en el Padrón Municipal de Habitantes",
+        "id": "d120f65c-c936-4a95-bd50-e7ae970ca149"
+      },
+      {
+        "nombre": "Solicitud de Aplazamiento o Fraccionamiento de Obligaciones Tributarias",
+        "id": "1fb37055-447d-48b6-8ea6-a670f5a9629b"
+      },
+      {
+        "nombre": "Solicitud de Aprobación de Planeamiento de Desarrollo",
+        "id": "23c80d53-bdad-47a5-b731-f786c411e08d"
+      },
+      {
+        "nombre": "Solicitud de Aprobación de un Proyecto de Compensación",
+        "id": "774714c1-ade3-4dd9-a093-3ca045647fa3"
+      },
+      {
+        "nombre": "Solicitud de Autorización",
+        "id": "28adaa8c-63bc-49bc-b468-9ac9900a7006"
+      },
+      {
+        "nombre": "Solicitud de Autorización Ambiental",
+        "id": "abfb134a-80d0-495d-a52a-457340f5f78f"
+      },
+      {
+        "nombre": "Solicitud de Autorización Especial para la Celebración de Eventos Especiales (Uso de Artificios Pirotécnicos)",
+        "id": "c6b06508-6603-4b75-9e5e-cce272e4a0f9"
+      },
+      {
+        "nombre": "Solicitud de Autorización de Usos Funerarios: Nichos, Panteones, Columbarios...",
+        "id": "aa1413d7-4616-49e7-a405-726f7b3e5689"
+      },
+      {
+        "nombre": "Solicitud de Autorización para el Ejercicio de Venta Ambulante",
+        "id": "66b59a72-7c44-4c95-9b50-7133fd31cb56"
+      },
+      {
+        "nombre": "Solicitud de Baja en el Padrón Municipal de Habitantes por Cambio de Residencia de Extranjeros que se trasladan al Extranjero",
+        "id": "f60c66ec-6337-443d-aa6e-983050992392"
+      },
+      {
+        "nombre": "Solicitud de Bonificación o Exención de un Tributo",
+        "id": "4f89832a-e472-4c39-bbd4-d519e35946dd"
+      },
+      {
+        "nombre": "Solicitud de Cambio de Puesto de Trabajo: Permutas, Comisiones de Servicios,...",
+        "id": "902bdb06-4d77-4f2a-9c02-5d7b5e780bd9"
+      },
+      {
+        "nombre": "Solicitud de Cambio de Titularidad de Derecho Funerario: Nichos, Panteones, Columbarios,...",
+        "id": "967cce52-b589-482d-8d55-0f017b55348b"
+      },
+      {
+        "nombre": "Solicitud de Certificado de Deuda a mi Favor",
+        "id": "f6d7d008-0ad3-4bfa-be5b-0f3302d888dc"
+      },
+      {
+        "nombre": "Solicitud de Certificado de una Subvención Concedida",
+        "id": "2fb6a1c3-4040-4c1b-84bc-c6b127fac3cb"
+      },
+      {
+        "nombre": "Solicitud de Certificado o Informe",
+        "id": "f422cab6-2a5e-4a75-b9c7-2531bfa239c7"
+      },
+      {
+        "nombre": "Solicitud de Certificado o Informe Tributario",
+        "id": "8e9712d9-a992-4d8e-a5a2-76e5f11acf12"
+      },
+      {
+        "nombre": "Solicitud de Certificado o Informe Urbanístico",
+        "id": "e247f7c3-b1ff-42ef-8b7d-5195c14e9bbf"
+      },
+      {
+        "nombre": "Solicitud de Certificado o Volante de Convivencia",
+        "id": "e268d9e6-d835-4922-be8f-a18c9738a331"
+      },
+      {
+        "nombre": "Solicitud de Certificado o Volante de Empadronamiento",
+        "id": "1c74bc66-8b69-4f3c-8183-d3591f0504ed"
+      },
+      {
+        "nombre": "Solicitud de Consulta de Fondos del Archivo",
+        "id": "2e66d84c-8d27-411f-a711-9a345c14be70"
+      },
+      {
+        "nombre": "Solicitud de Declaración de Nulidad de Pleno Derecho de Actos Administrativos de Naturaleza Tributaria",
+        "id": "c0314398-fd54-4586-91e6-570fbbf6fb1e"
+      },
+      {
+        "nombre": "Solicitud de Declaración de Ruina",
+        "id": "e64a8029-2e12-49aa-a002-120e27ca1386"
+      },
+      {
+        "nombre": "Solicitud de Devolución de Garantía",
+        "id": "8f8a80e9-6a03-4b2b-a21d-4191ab1bf51e"
+      },
+      {
+        "nombre": "Solicitud de Devolución de Ingresos Indebidos",
+        "id": "28338128-8e01-4325-bd5e-a698b12b441e"
+      },
+      {
+        "nombre": "Solicitud de Licencia de Actividad",
+        "id": "bf5e9be9-4ba9-4bbd-86cd-2f915f8b3c78"
+      },
+      {
+        "nombre": "Solicitud de Licencia de Conexión a las Redes de Abastecimiento o Saneamiento de Aguas",
+        "id": "c66a05a4-4510-434c-9e82-851788cf42e6"
+      },
+      {
+        "nombre": "Solicitud de Licencia de Ocupación",
+        "id": "b834b3fa-3690-4626-9c92-d82669d6f26f"
+      },
+      {
+        "nombre": "Solicitud de Licencia o Autorización Urbanística",
+        "id": "15fabacb-83b1-47d1-b435-508245672051"
+      },
+      {
+        "nombre": "Solicitud de Licencia para la Tenencia de Animales Potencialmente Peligrosos",
+        "id": "42fc1e2b-c6be-4972-841f-904b4cce2ccd"
+      },
+      {
+        "nombre": "Solicitud de Mediación",
+        "id": "6dfd75f7-af86-4d45-b4eb-aaf30a25c983"
+      },
+      {
+        "nombre": "Solicitud de Modificaciones en las Condiciones del Contrato: Cesiones, Prórroga, Revisión de Precios...",
+        "id": "d747c1e5-fb79-46f1-85e6-dd32acbecf24"
+      },
+      {
+        "nombre": "Solicitud de Modificación de los Datos del Padrón Municipal de Habitantes",
+        "id": "d74e17fb-69a1-4ef6-931a-d0381be7ffdc"
+      },
+      {
+        "nombre": "Solicitud de Modificación o Renuncia de una Licencia Urbanística",
+        "id": "a3c783fb-bb19-4ea3-b40f-0072d69aebae"
+      },
+      {
+        "nombre": "Solicitud de Prestación de Servicios Sociales",
+        "id": "37b15924-7921-4bc5-83de-3cec20016ebe"
+      },
+      {
+        "nombre": "Solicitud de Recepción de Obras de Urbanización",
+        "id": "e8594295-30ea-4a16-8f17-60c061a8a147"
+      },
+      {
+        "nombre": "Solicitud de Resolución de Contrato",
+        "id": "788eacc5-12d8-4016-ac6f-273eef2c5b1e"
+      },
+      {
+        "nombre": "Solicitud de Responsabilidad Patrimonial",
+        "id": "9ef28355-2f43-4c8a-bee7-93c6f39f2a8b"
+      },
+      {
+        "nombre": "Solicitud de Reuniones y Entrevistas con el Personal de esta Entidad",
+        "id": "25ddfc96-745e-42d5-80c8-8e82964a68f0"
+      },
+      {
+        "nombre": "Solicitud de Tarjeta de Armas",
+        "id": "8ab9325a-e61c-41b5-8a49-b353f382579a"
+      },
+      {
+        "nombre": "Solicitud de Uso Puntual de un Bien",
+        "id": "84e1c073-a87d-4428-b32c-8b9a24b20ad5"
+      },
+      {
+        "nombre": "Solicitud de la Devolución de Ingresos Derivada de la Normativa del Tributo (Art. 31 LGT)",
+        "id": "0b5b5d9d-7549-4e4c-949c-16b152ba1b47"
+      },
+      {
+        "nombre": "Solicitud de la Tarjeta de Aparcamiento para Residentes en zonas de Estacionamiento Limitado",
+        "id": "abf6fdef-9e43-4ede-aa2b-e95db9d07f13"
+      },
+      {
+        "nombre": "Solicitud de participacion en procesos de selección de personal",
+        "id": "970c9466-4c31-4645-bebc-61e2d9f413ff"
+      },
+      {
+        "nombre": "Solicitud para la Celebración de Matrimonio Civil",
+        "id": "fe871c4e-f81e-4357-a5b8-94ef42a9da42"
+      },
+      {
+        "nombre": "Solicitud para la Constitución de un Consorcio",
+        "id": "397c5c61-2867-4754-9c54-ddc00d5ef844"
+      },
+      {
+        "nombre": "Solicitud para la Quema de Rastrojos",
+        "id": "e8f22e0c-b09a-4c0e-8cb1-555f661bb086"
+      },
+      {
+        "nombre": "Solicitud para la Renumeración o Denominación de una Vía Pública",
+        "id": "990ec0df-7d47-4fbf-8d41-51e269920b76"
+      },
+      {
+        "nombre": "Solicitud para la gestión de la Tarjeta de Aparcamiento para Personas en Situación de Discapacidad",
+        "id": "b439034b-8550-4b62-9f31-172f5792bae9"
+      },
+      {
+        "nombre": "Solicitudes de Información Accesible y Quejas",
+        "id": "bfdcf208-2d99-46f6-b78f-116f61936045"
+      },
+      {
+        "nombre": "Subvenciones Directas o Nominativas",
+        "id": "a96835f4-5214-4258-8d8b-47439196226b"
+      },
+      {
+        "nombre": "Sustitución de un Vehículo Sujeto a una Licencia de Auto-Taxi",
+        "id": "da566145-fd06-47cf-bed1-d146edbd688a"
+      },
+      {
+        "nombre": "Verificación, Lectura o Cambio de Ubicación de Contadores de Aguas",
+        "id": "8c02079a-91f2-4c82-87a4-963a73ebd40d"
+      }
+    ]
+  },
+  "documentos": [
+    {
+      "grupo": "Ordenanzas fiscales",
+      "nota": "Impuestos y tasas, en su última publicación en el BOP",
+      "items": [
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por expedición de licencias, autorizaciones, documentos y otras actividades y servicios de naturaleza urbanísticas",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=131621&FechaSolicitada=2021-05-27",
+          "fecha": "2021"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora del impuesto sobre construcciones, instalaciones y obras",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=132509&FechaSolicitada=2021-07-09",
+          "fecha": "2021"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora del Impuesto de Bienes Inmuebles",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=134155&FechaSolicitada=2021-11-12",
+          "fecha": "2021"
+        },
+        {
+          "titulo": "Ordenanza fiscal del impuesto sobre Vehículos de Tracción Mecánica",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora del impuesto sobre actividades económicas",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por expedición de documentos administrativos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa de alcantarillado",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=134162&FechaSolicitada=2021-11-16",
+          "fecha": "2021"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por el uso de la instalación deportiva Pista de Pádel",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=91663&FechaSolicitada=2014-12-30",
+          "fecha": "2014"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por licencia de apertura de establecimientos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=21576&FechaSolicitada=2008-01-22",
+          "fecha": "2008"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por el servicio de mercado de abastos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por ocupación de terrenos de uso público local con mercancías, materiales de construcción, escombros, vallas, puntales, asnillas, andamios y otras instalaciones análogas",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por entrada de vehículos a través de las aceras y reservas de vía pública para aparcamiento exclusivo, parada de vehículos, carga y descarga de mercancías de cualquier claes",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por tendidos, tuberías y galerías para la conducción de energía eléctrica, agua, gas o cualquier otro fluído incluidos los postes para líneas, cables, palomillas, cajas de amarre, de distribución o de registro, transformadores, rieles, básculas, aparatos para venta automática y otros análogos que se establezcan sobre vías públicas u otros terrenos de dominio público local o vuelen sobre los mismos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=1025&FechaSolicitada=2006-02-15",
+          "fecha": "2006"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por la utilización privativa o aprovechamiento especial del dominio público local mediante la ocupación de terrenos de uso público con mesas y sillas con finalidad lucrativa",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=126854&FechaSolicitada=2020-08-18",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por la instalación de puestos, barracas, casetas de venta, espectáculos, atracciones o recreo, situados en terrenos de uso público local, así como industrias callejeras y ambulantes y rodaje cinematográfico",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por ocupación de terrenos de uso público local con mesas y sillas, tribunas, tablaos y otros elementos análogos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por distribución de agua, incluidos los derechos de enganche y colocación y utilización de contadores e instalaciones análogas",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=21576&FechaSolicitada=2008-01-22",
+          "fecha": "2008"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por el servicio de enseñanzas en la Universidad Popular",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=35222&FechaSolicitada=2009-03-20",
+          "fecha": "2009"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por prestación del servicio municipal de Escuela de Educación Infantil",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=123726&FechaSolicitada=2020-01-21",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa por actividades administrativas de verificación y control de actuaciones urbanísticas y otras",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=64541&FechaSolicitada=2011-12-19",
+          "fecha": "2011"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tasa por los servicios prestados en los Pisos Tutelados y Centro de Día San Roque\"",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=115359&FechaSolicitada=2018-08-23",
+          "fecha": "2018"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tasa por suministro de energía eléctrica a puestos de feria",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=108418&FechaSolicitada=2017-06-07",
+          "fecha": "2017"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tasa por los servicios de enseñanza de la escuela municipal de música",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=124294&FechaSolicitada=2020-02-24",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tasa por el servicio de escuela municipal de deportes",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=98750&FechaSolicitada=2015-11-26",
+          "fecha": "2015"
+        },
+        {
+          "titulo": "Ordenanza fiscal reguladora de la tasa de derechos de examen",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=135780&FechaSolicitada=2022-03-11",
+          "fecha": "2022"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tasa por visitas guiadas y acceso a monumentos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=135625&FechaSolicitada=2022-03-04",
+          "fecha": "2022"
+        },
+        {
+          "titulo": "Ordenanza reguladora del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=135808&FechaSolicitada=2022-03-16",
+          "fecha": "2022"
+        }
+      ]
+    },
+    {
+      "grupo": "Otras ordenanzas y reglamentos",
+      "nota": "Convivencia, Capeas, animales, venta ambulante",
+      "items": [
+        {
+          "titulo": "Ordenanza de convivencia ciudadana",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=100359&FechaSolicitada=2016-02-23",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Ordenanza de estacionamientos para personas con discapacidad",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=1745&FechaSolicitada=2006-03-14",
+          "fecha": "2006"
+        },
+        {
+          "titulo": "Ordenanza reguladora de subvenciones y ayudas del ayuntamiento de Segura de León",
+          "url": "https://www.dip-badajoz.es/bop/2005/09/20050912_5054-5060.pdf",
+          "tipo": "pdf",
+          "fecha": "2005"
+        },
+        {
+          "titulo": "Ordenanza reguladora de las contribuciones especiales",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=33833&FechaSolicitada=2009-02-13",
+          "fecha": "2009"
+        },
+        {
+          "titulo": "Ordenanza sobre tráfico, circulación de vehículos a motor y seguridad vial",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=33895&FechaSolicitada=2009-02-20",
+          "fecha": "2009"
+        },
+        {
+          "titulo": "Ordenanza reguladora del festejo taurino tradicional \"Las Capeas\"",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=109747&FechaSolicitada=2017-09-07",
+          "fecha": "2017"
+        },
+        {
+          "titulo": "Ordenanza reguladora del punto limpio",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=86925&FechaSolicitada=2014-05-16",
+          "fecha": "2014"
+        },
+        {
+          "titulo": "Ordenanza reguladora de las obligaciones de productores y poseedores de residuos de construcción y demolición",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=94736&FechaSolicitada=2015-05-08",
+          "fecha": "2015"
+        },
+        {
+          "titulo": "Ordenanza reguladora de las ayudas económicas por nacimiento o adopción de hijo",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=123722&FechaSolicitada=2020-01-21",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Ordenanza reguladora de los vertidos a la red municipal de alcantarillado",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=109321&FechaSolicitada=2017-08-01",
+          "fecha": "2017"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la administración electrónica",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=113501&FechaSolicitada=2018-05-03",
+          "fecha": "2018"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la venta ambulante",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=124237&FechaSolicitada=2020-02-20",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tarjeta de estacionamiento de vehículos para personas que presenten movilidad reducida y creación y reserva de plazas de aparcamiento en la vía pública",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=128520&FechaSolicitada=2020-11-27",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Ordenanza reguladora de la tenencia de animales de compañía y potencialmente peligrosos",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=129155&FechaSolicitada=2020-12-31",
+          "fecha": "2020"
+        },
+        {
+          "titulo": "Reglamento del registro de facturas electrónicas",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=92623&FechaSolicitada=2015-02-18",
+          "fecha": "2015"
+        },
+        {
+          "titulo": "Reglamento de la figura de Cronista Oficial",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=77180&FechaSolicitada=2013-05-02",
+          "fecha": "2013"
+        },
+        {
+          "titulo": "Reglamento de régimen interno de los Pisos Tutelados \"San Roque\"",
+          "url": "https://www.dip-badajoz.es/bop/ventana_anuncio.php?id_anuncio=109314&FechaSolicitada=2017-08-03",
+          "fecha": "2017"
+        }
+      ]
+    },
+    {
+      "grupo": "Actas de los plenos",
+      "items": [
+        {
+          "titulo": "Actas desde junio de 2018, en el portal de transparencia",
+          "url": "https://seguradeleon.sedelectronica.es/transparency"
+        },
+        {
+          "titulo": "Actas de 2003 a 2018 (web anterior del Ayuntamiento)",
+          "url": "https://seguradeleon.es/plantilla.php?enlace=plenos"
+        },
+        {
+          "titulo": "Anuncios del Ayuntamiento en el Boletín Oficial de la Provincia",
+          "url": "https://www.dip-badajoz.es/bop/"
+        }
+      ]
+    },
+    {
+      "grupo": "Guías turísticas",
+      "nota": "Folletos de la Oficina de Turismo (2016)",
+      "items": [
+        {
+          "titulo": "El castillo",
+          "url": "https://seguradeleon.es/repositorio/20190726091300.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "La iglesia parroquial",
+          "url": "https://seguradeleon.es/repositorio/20190726091409.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "El convento de San Benito",
+          "url": "https://seguradeleon.es/repositorio/20190726091325.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "El claustro del convento de San Benito",
+          "url": "https://seguradeleon.es/repositorio/20190726091313.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Iglesias, ermitas y convento",
+          "url": "https://seguradeleon.es/repositorio/20190726091441.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "El Museo de la Capea",
+          "url": "https://seguradeleon.es/repositorio/20190726091423.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Las Capeas",
+          "url": "https://seguradeleon.es/repositorio/20190726091246.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Repertorio de festejos",
+          "url": "https://seguradeleon.es/repositorio/20190726091338.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Fiestas: el Camino y San Isidro",
+          "url": "https://seguradeleon.es/repositorio/20190726091223.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Semana Santa",
+          "url": "https://seguradeleon.es/repositorio/20190726091515.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Guía gastronómica",
+          "url": "https://seguradeleon.es/repositorio/20190726091356.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Galería de personajes",
+          "url": "https://seguradeleon.es/repositorio/20190726091457.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "El Camino de Santiago",
+          "url": "https://seguradeleon.es/repositorio/20190726091204.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Campaña «Solo Arena»",
+          "url": "https://seguradeleon.es/repositorio/20190726091236.pdf",
+          "tipo": "pdf",
+          "fecha": "2016"
+        },
+        {
+          "titulo": "Callejero turístico",
+          "url": "https://seguradeleon.es/repositorio/20200513113058.pdf",
+          "tipo": "pdf",
+          "fecha": "2015"
+        }
+      ]
+    },
+    {
+      "grupo": "Igualdad y residuos",
+      "nota": "Guías de la Mancomunidad de Tentudía",
+      "items": [
+        {
+          "titulo": "Guía de atención a la violencia de género",
+          "url": "https://seguradeleon.es/repositorio/20240315095739.pdf",
+          "tipo": "pdf",
+          "fecha": "2024"
+        },
+        {
+          "titulo": "Guía de la recogida Puerta a Puerta",
+          "url": "https://seguradeleon.es/repositorio/20241018121140.pdf",
+          "tipo": "pdf",
+          "fecha": "2024"
+        }
+      ]
+    }
+  ],
+  "pueblo": {
+    "entradilla": "Una villa blanca entre dos cerros, a los pies de un castillo santiaguista. Fue capital de la Encomienda Mayor de León de la Orden de Santiago, y cada septiembre la Plaza de España se cierra para las Capeas.",
+    "historia": [
+      "Hubo una villa romana en el paraje del Torreón, cerca del Cristo de la Reja. La Orden de Santiago conquistó estas tierras en 1248, y en 1274 el maestre Pelay Pérez Correa concedió fuero a la villa, que se separó así de Montemolín.",
+      "Segura fue capital de la Encomienda Mayor de León y sede de la Vicaría de Tudía hasta el siglo XIX; de ahí la cruz de Santiago y el león de su escudo. Fue también cabeza de partido judicial de 1274 a 1834.",
+      "En el siglo XIV la Orden levantó el castillo, y Alonso de Cárdenas, el último maestre, lo hizo su palacio. La villa tuvo judería hasta 1492, y en ella vivió en 1483 el financiero y teólogo Isaac Abravanel.",
+      "De sus pinares salían vigas, tablas, sillas y piñones que los segureños vendían por el sur de Extremadura. En 1973 la Diputación compró el castillo por un millón de pesetas y lo cedió al Ayuntamiento, que lo ha restaurado y hoy lo enseña."
+    ],
+    "lugares": [
+      {
+        "nombre": "El castillo",
+        "texto": "Santiaguista, del siglo XIV, con la torre del Homenaje y sus 24 almenas. Se visita con audioguía.",
+        "foto": "castillo",
+        "alt": "El castillo almenado sobre las casas encaladas del pueblo"
+      },
+      {
+        "nombre": "Iglesia de la Asunción",
+        "texto": "Bien de Interés Cultural desde 2009. Guarda un lienzo de Valdés Leal y un órgano barroco de 1782.",
+        "foto": "iglesia-asuncion",
+        "alt": "La iglesia parroquial entre los tejados, con el cerro detrás"
+      },
+      {
+        "nombre": "Convento de San Benito",
+        "texto": "Franciscano, de 1477-1480, con claustro mudéjar y el Cristo de la Reja, patrón de las Capeas.",
+        "foto": "convento-san-benito",
+        "alt": "El convento de San Benito, encalado, al final de un camino de tierra"
+      },
+      {
+        "nombre": "Casa Consistorial",
+        "texto": "De 1555, con soportales y el escudo imperial de Carlos V. Preside la Plaza de España.",
+        "foto": "casa-consistorial",
+        "alt": "Fachada blanca del Ayuntamiento con soportales y reloj"
+      },
+      {
+        "nombre": "Ermita de los Remedios",
+        "texto": "Con soportal de 1833 y retablo barroco. Junto a ella está el cementerio.",
+        "foto": "ermita-remedios",
+        "alt": "La ermita blanca entre la dehesa y los prados"
+      },
+      {
+        "nombre": "Calles y tejados",
+        "texto": "El caserío encalado, visto desde el paseo de ronda del castillo.",
+        "foto": "caserio",
+        "alt": "Calles blancas y tejados rojos con la torre de la parroquia"
+      },
+      {
+        "nombre": "Las Capeas",
+        "texto": "Cada septiembre, la Plaza de España se cierra con tablaos para torear las vacas que ceden los ganaderos.",
+        "foto": "capeas-entrada",
+        "alt": "Caballistas y ganado entrando en la plaza cerrada con tablaos"
+      }
+    ],
+    "visitas": [
+      {
+        "nombre": "Castillo santiaguista",
+        "texto": "Visita libre con audioguía en español e inglés: patio de armas, paseo de ronda, torre del Homenaje, calabozo, capilla y la pinacoteca de Antonio Casquete de Prado.",
+        "direccion": "C/ Castillo",
+        "horario": "Sábados, de 10:30 a 14:30 y de 16:30 a 18:30; domingos, de 10:30 a 14:30 (horario de invierno)",
+        "precio": "3 €; 1 € de 12 a 15 años y empadronados; gratis para menores de 12, pensionistas y personas con discapacidad",
+        "telefono": "615 625 117",
+        "nota": "Sin reserva. En verano, el sábado por la tarde abre de 18:00 a 20:00. Fuera de horario, con reserva en la Oficina de Turismo.",
+        "url": "https://seguradeleon.es/plantilla.php?enlace=guiascompletas",
+        "url_texto": "Escuchar las audioguías"
+      },
+      {
+        "nombre": "Museo y Centro de Estudios de la Capea",
+        "texto": "Una casa rehabilitada dedicada a las Capeas: la tranca, la tronera, los tablaos y los ganaderos. Para llegar, siga las pisadas que empiezan en la plaza.",
+        "horario": "En verano, de jueves a domingo, de 21:30 a 0:00",
+        "telefono": "615 625 117",
+        "nota": "El resto del año, con reserva en la Oficina de Turismo."
+      },
+      {
+        "nombre": "Exposición de Antonio Aradillas",
+        "texto": "Cuarenta cuadros, ochenta y tres libros y viñetas originales que el sacerdote y periodista donó al pueblo, en la Casa de la Cultura.",
+        "telefono": "615 625 117",
+        "nota": "Con cita previa en la Oficina de Turismo."
+      },
+      {
+        "nombre": "Oficina de Turismo",
+        "texto": "Guías, paquetes de visita para grupos y la gymkana turística digital. Se puede entrar con perro en la oficina, el castillo y el museo.",
+        "direccion": "C/ Castillo, 1",
+        "horario": "Martes a jueves, de 10:00 a 14:30; viernes, de 10:00 a 14:30 y de 17:00 a 19:00",
+        "telefono": "615 625 117",
+        "nota": "Las visitas guiadas se conciertan con 48 horas de antelación. Correo: oficinadeturismo@seguradeleon.es."
+      }
+    ],
+    "placa": {
+      "titulo": "La cartela de la judería",
+      "lineas": [
+        "IN DNO",
+        "CVI FIDO",
+        "1554"
+      ],
+      "pie": "Cartela de una casa de la antigua aljama",
+      "texto": "«En el Señor confío». La judería ocupaba las calles Castillo, Portugalejo, Santa Cruz y Mesones; la sinagoga, hoy desaparecida, estaba en la calle Castillo."
+    },
+    "patrimonio": [
+      {
+        "nombre": "Castillo santiaguista",
+        "detalle": "Siglo XIV. Torres de Miramontes y de los Alcaides, torre del Homenaje con 24 almenas, capilla, mazmorra y dos aljibes."
+      },
+      {
+        "nombre": "Iglesia parroquial de Nuestra Señora de la Asunción",
+        "detalle": "BIC (2009). Inscripción de 1299, capilla de Hernán Mejías, 13 retablos, el «Martirio de San Bartolomé» de Valdés Leal y el órgano de Tomás Risueño (1782)."
+      },
+      {
+        "nombre": "Convento de San Benito y Cristo de la Reja",
+        "detalle": "Franciscano, de 1477-1480. Doble claustro mudéjar con pinturas al temple del siglo XVII y la talla del Cristo, de principios del XVI, atribuida a Pedro Millán."
+      },
+      {
+        "nombre": "Casa Consistorial",
+        "detalle": "De 1555, reconstruida en 1967. Conserva los arcos y el escudo imperial de Carlos V."
+      },
+      {
+        "nombre": "Casa del Gobernador",
+        "detalle": "Vivienda del gobernador o alcalde mayor del siglo XVI a 1833, con portada de granito y grutescos."
+      },
+      {
+        "nombre": "Convento de la Limpia Concepción (iglesia de Fátima)",
+        "detalle": "Fundado hacia 1571-1573 por García de Merlo y Beatriz Núñez para monjas concepcionistas, que estuvieron hasta 1870."
+      },
+      {
+        "nombre": "Ermita de los Remedios y cementerio",
+        "detalle": "Soportal de 1833 y retablo barroco del siglo XVIII. El cementerio es de 1829."
+      },
+      {
+        "nombre": "Ermita de las Angustias",
+        "detalle": "De principios del siglo XVI, con portada isabelina."
+      },
+      {
+        "nombre": "Ermita de San Roque",
+        "detalle": "Del antiguo hospital de San Roque (siglo XVII), con la imagen del patrón."
+      },
+      {
+        "nombre": "Aljama o judería",
+        "detalle": "Entre las calles Castillo, Portugalejo, Santa Cruz y Mesones, con la cartela de 1554."
+      },
+      {
+        "nombre": "Plazas y arquerías",
+        "detalle": "La Plaza de España, la de la Iglesia y la de Don Carmelo, y los soportales de la calle San Roque."
+      },
+      {
+        "nombre": "Monumento al Sagrado Corazón",
+        "detalle": "Inaugurado en 1930 en el cerro de la Piedra Gorda. Es un mirador."
+      },
+      {
+        "nombre": "Tesoro de la Martela",
+        "detalle": "Joyas de oro del siglo IV a. C. halladas en 1984. Está en el Museo Arqueológico de Badajoz."
+      },
+      {
+        "nombre": "Molinos de aceite y Arcos de la Alcantarilla",
+        "detalle": "Torres de viga en las calles Sánchez Miranda y Enfermería, y los arcos del puente sobre el arroyo del Pasay."
+      },
+      {
+        "nombre": "Siete Fuentes",
+        "detalle": "Santa María, el Caño, la Bejarana, el Pilar Chico, el Pilar Viejo, la Alcantarilla y la Carriona."
+      },
+      {
+        "nombre": "Sierra y castillo de Gigonza",
+        "detalle": "A 738 m, con los restos de un castillo musulmán del siglo X."
+      },
+      {
+        "nombre": "Cañada Real Soriana y Charco Hondo",
+        "detalle": "La vía pecuaria por la que bajaban los rebaños de la Mesta."
+      }
+    ],
+    "fiestas": [
+      {
+        "mes": 1,
+        "nombre": "Cabalgata de Reyes",
+        "cuando": "5 de enero",
+        "fecha_fija": "01-05"
+      },
+      {
+        "mes": 2,
+        "nombre": "Candelaria y San Blas",
+        "cuando": "2 y 3 de febrero",
+        "fecha_fija": "02-02"
+      },
+      {
+        "mes": 2,
+        "nombre": "Carnaval",
+        "cuando": "Antes de la Cuaresma"
+      },
+      {
+        "mes": 3,
+        "nombre": "Día de la Tortilla",
+        "cuando": "Antes de Semana Santa"
+      },
+      {
+        "mes": 4,
+        "nombre": "Semana Santa",
+        "cuando": "Con el Amarrao, la madrugá y el Pregón de Pilatos"
+      },
+      {
+        "mes": 4,
+        "nombre": "Virgen de los Remedios",
+        "cuando": "El lunes de la semana siguiente a Pascua"
+      },
+      {
+        "mes": 4,
+        "nombre": "Día del Camino",
+        "cuando": "Último sábado de abril"
+      },
+      {
+        "mes": 5,
+        "nombre": "Cruces de Mayo",
+        "cuando": "Noche del 2 al 3 de mayo",
+        "fecha_fija": "05-03"
+      },
+      {
+        "mes": 5,
+        "nombre": "San Isidro",
+        "cuando": "El fin de semana siguiente al 15 de mayo, con casetas en el Llano del Convento"
+      },
+      {
+        "mes": 6,
+        "nombre": "Feria Gastronómica «Segura, para comérsela»",
+        "cuando": "En junio"
+      },
+      {
+        "mes": 8,
+        "nombre": "San Roque, patrón, y la Asunción",
+        "cuando": "15 y 16 de agosto, con el Ramo y los merengues",
+        "fecha_fija": "08-16",
+        "mayor": true
+      },
+      {
+        "mes": 9,
+        "nombre": "Día de la Tranca",
+        "cuando": "El sábado antes de las Capeas"
+      },
+      {
+        "mes": 9,
+        "nombre": "Las Capeas, en honor al Cristo de la Reja",
+        "cuando": "Mediados de septiembre; el 14, día del Cristo",
+        "fecha_fija": "09-14",
+        "mayor": true
+      },
+      {
+        "mes": 10,
+        "nombre": "San Francisco",
+        "cuando": "En torno al 4 de octubre, en el Llano del Convento"
+      },
+      {
+        "mes": 10,
+        "nombre": "Noche en Blanco",
+        "cuando": "Un sábado de octubre"
+      },
+      {
+        "mes": 12,
+        "nombre": "Mercado Navideño",
+        "cuando": "En diciembre"
+      },
+      {
+        "mes": 12,
+        "nombre": "Día de las Migas",
+        "cuando": "31 de diciembre",
+        "fecha_fija": "12-31"
+      }
+    ],
+    "gastronomia": {
+      "platos": [
+        "Tostadas con zurrapa o de caldillo",
+        "Migas",
+        "Bacalao guisao",
+        "Tortilla de patatas",
+        "Calandracas",
+        "Guarrito frito",
+        "Ancas de rana rebozadas",
+        "Setas: níscalos, boletos y gurumelos",
+        "Caza: perdiz, conejo y liebre con arroz",
+        "Puchas",
+        "Sopas de ajo y de tomate",
+        "Gazpacho y salmorejo",
+        "Jamón ibérico de bellota"
+      ],
+      "dulces": [
+        "Merengues",
+        "Roscas",
+        "Flores",
+        "Piñonate"
+      ],
+      "bebidas": [
+        "Vino de pitarra",
+        "Licor de «gloria»"
+      ]
+    },
+    "personajes": [
+      {
+        "nombre": "Alonso de Cárdenas",
+        "fechas": "Siglo XV",
+        "texto": "Último maestre de la Orden de Santiago. Comendador mayor desde 1450, hizo del castillo su palacio."
+      },
+      {
+        "nombre": "Leonor de Luna",
+        "fechas": "Siglo XV",
+        "texto": "Esposa de Alonso de Cárdenas y cofundadora del convento de San Benito."
+      },
+      {
+        "nombre": "Isaac Abravanel",
+        "fechas": "Siglo XV",
+        "texto": "Financiero y teólogo, huido de Portugal. Vivió en la judería de Segura nueve meses, desde el 1 de junio de 1483."
+      },
+      {
+        "nombre": "Diego Mexías",
+        "fechas": "Murió en 1540",
+        "texto": "Capitán en la conquista del Perú. Su legado pagó la capilla de los Mexía de la parroquia."
+      },
+      {
+        "nombre": "Álvaro Martín",
+        "fechas": "Siglo XVI",
+        "texto": "Indiano en Panamá. Donó 1.600 ducados al convento de San Benito, donde está su capilla."
+      },
+      {
+        "nombre": "Beatriz Núñez",
+        "fechas": "Siglo XVI",
+        "texto": "Fundó con su marido, García de Merlo, el convento de la Limpia Concepción."
+      },
+      {
+        "nombre": "Ildefonso Serrano",
+        "fechas": "Párroco de 1889 a 1927",
+        "texto": "«El Sabio de Extremadura». Fundó un colegio, la revista Lumen, una imprenta, el sindicato agrícola y la Caja Rural."
+      },
+      {
+        "nombre": "José Pérez Jiménez",
+        "fechas": "Nació en 1887",
+        "texto": "Pintor. Fue profesor en Oviedo desde 1914."
+      },
+      {
+        "nombre": "Guillermo Silveira",
+        "fechas": "1922-1987",
+        "texto": "Pintor y escultor. Medalla de oro de la IV Bienal Extremeña (1970)."
+      }
+    ],
+    "rutas": [
+      {
+        "nombre": "Ruta Verde",
+        "resumen": "15 km, dificultad baja. Polígono, Juanadame, Charco Hondo, Los Molinillos y la piscina.",
+        "url": "https://seguradeleon.es/repositorio/20190726115822.pdf"
+      },
+      {
+        "nombre": "Ruta Roja",
+        "resumen": "12 km, dificultad baja. El Tropezón, el Torreón, el Cristo de la Reja, Las Amarillas, La Contiña, Los Majadales y el Pilar Viejo.",
+        "url": "https://seguradeleon.es/repositorio/20190726115822.pdf"
+      },
+      {
+        "nombre": "Ruta Negra",
+        "resumen": "18 km, dificultad media. Grano de Oro, Cuesta Casillas, la Cañada Real y la Fuente del Caño.",
+        "url": "https://seguradeleon.es/repositorio/20190726115822.pdf"
+      },
+      {
+        "nombre": "Ruta Azul",
+        "resumen": "21 km, dificultad baja. Fuente de Santa María, El Sejo, La Orden, El Morito y Juanadame.",
+        "url": "https://seguradeleon.es/repositorio/20190726115822.pdf"
+      },
+      {
+        "nombre": "Ruta de las Siete Fuentes",
+        "resumen": "Por las fuentes que daban agua al pueblo, de Santa María a la Carriona.",
+        "url": "https://seguradeleon.es/repositorio/20190726115806.pdf"
+      },
+      {
+        "nombre": "Camino de Santiago",
+        "resumen": "Etapa del Camino del Sur desde Huelva: Fuentes de León, Segura de León y Valencia del Ventoso.",
+        "url": "https://seguradeleon.es/repositorio/20190726091204.pdf"
+      }
+    ],
+    "establecimientos": [
+      {
+        "grupo": "Restaurantes y bares",
+        "items": [
+          {
+            "nombre": "Restaurante La Cafetería",
+            "direccion": "Ctra. Fregenal-Santa Olalla, km 13,5",
+            "telefono": "924 703 033"
+          },
+          {
+            "nombre": "Mesón Restaurante La Teja",
+            "direccion": "C/ Guardia Civil, s/n",
+            "telefono": "924 703 338"
+          },
+          {
+            "nombre": "Bar Tropezón",
+            "direccion": "EX-201, 1",
+            "telefono": "650 688 255"
+          },
+          {
+            "nombre": "Bar San Roque",
+            "direccion": "C/ San Roque, 12",
+            "telefono": "615 976 551"
+          },
+          {
+            "nombre": "Bar Laureano",
+            "direccion": "C/ Santa Olalla de Cala",
+            "telefono": "924 703 236"
+          },
+          {
+            "nombre": "Bar Casa Manolo",
+            "direccion": "Plaza de España, 13"
+          },
+          {
+            "nombre": "Bar Puerta del Sol",
+            "direccion": "Plaza de España"
+          },
+          {
+            "nombre": "Pub Canela",
+            "direccion": "Plaza de España"
+          },
+          {
+            "nombre": "Bar El Retorno",
+            "direccion": "C/ Castillo"
+          },
+          {
+            "nombre": "Bar del Hogar del Pensionista",
+            "direccion": "C/ Ramón y Cajal"
+          }
+        ]
+      },
+      {
+        "grupo": "Hotel y casas rurales",
+        "items": [
+          {
+            "nombre": "Hotel Rural La Teja",
+            "direccion": "C/ Guardia Civil, s/n",
+            "telefono": "604 904 616"
+          },
+          {
+            "nombre": "Casa Rural La Fuente",
+            "direccion": "C/ José Pérez Jiménez, 47",
+            "telefono": "924 703 168"
+          },
+          {
+            "nombre": "Casa Rural La Jara y El Romero",
+            "direccion": "C/ Ramón y Cajal, 11",
+            "telefono": "924 703 228"
+          },
+          {
+            "nombre": "Casa Rural El Castillo de Segura",
+            "direccion": "C/ Castillo, 46",
+            "telefono": "658 493 797"
+          },
+          {
+            "nombre": "Casa Rural La Carriona",
+            "direccion": "C/ Carriona, 21",
+            "telefono": "620 160 030"
+          },
+          {
+            "nombre": "Casa Rural La Posada de Bartolo",
+            "direccion": "C/ Santa Cruz, 46",
+            "telefono": "622 680 179"
+          }
+        ]
+      },
+      {
+        "grupo": "Apartamentos turísticos",
+        "items": [
+          {
+            "nombre": "La Martela de Segura",
+            "direccion": "C/ Gigonza, 7",
+            "telefono": "617 685 940"
+          },
+          {
+            "nombre": "El Zarzal de Segura",
+            "direccion": "C/ Gigonza, 5",
+            "telefono": "692 818 503"
+          },
+          {
+            "nombre": "La Cultureta",
+            "direccion": "C/ Gigonza, 15",
+            "telefono": "695 876 210"
+          },
+          {
+            "nombre": "El Mirador de Segura",
+            "direccion": "C/ Gigonza, 33",
+            "telefono": "658 493 861"
+          },
+          {
+            "nombre": "Gigonza",
+            "direccion": "C/ Gigonza, 35",
+            "telefono": "658 573 373"
+          },
+          {
+            "nombre": "El Barro Colorao",
+            "direccion": "C/ Gigonza, 43",
+            "telefono": "645 850 274"
+          },
+          {
+            "nombre": "El Rincón de Matías",
+            "direccion": "C/ La China, 4",
+            "telefono": "690 381 745"
+          },
+          {
+            "nombre": "La Corralá",
+            "direccion": "C/ Castillo, 4",
+            "telefono": "657 874 718"
+          },
+          {
+            "nombre": "Casa Abuela Remedios",
+            "direccion": "C/ Diego Casquete, 58",
+            "telefono": "695 815 522"
+          }
+        ]
+      }
+    ],
+    "establecimientos_fuente": "Datos de la web municipal (páginas actualizadas entre 2020 y 2025)."
+  },
+  "fotos": {
+    "hero": {
+      "archivo": "castillo-cerro",
+      "alt": "El castillo santiaguista en lo alto del cerro, con la torre de una iglesia y casas blancas abajo",
+      "posicion": "50% 35%"
+    }
+  }
+}

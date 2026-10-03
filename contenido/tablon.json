@@ -1,0 +1,38 @@
+{
+  "_leeme": "GENERADO por scripts/tablon.mjs. Se puede editar a mano titulo_claro (título en lenguaje claro), tema (+ \"tema_manual\": true) y oculto. Lo demás se pisa al refrescar.",
+  "fuente": "https://seguradeleon.sedelectronica.es/board (copia del 03/10/2026)",
+  "actualizado": "2026-10-03T11:26:11.809Z",
+  "excluidas": 3,
+  "motivos_exclusion": [
+    "acta de sesión sin disociar",
+    "expropiación con titulares"
+  ],
+  "entradas": [
+    {
+      "titulo": "08 ANUNCIO APROBACION DEFINITIVA EXPTE. 14/2026 CREDITO EXTRAORDINARIO Y SUPLEMENTO DE CREDITO CON CARGO REMANENTE LIQUIDO DE TESORERIA",
+      "descripcion": "08 ANUNCIO APROBACION DEFINITIVA EXPTE. 14/2026 CREDITO EXTRAORDINARIO Y SUPLEMENTO DE CREDITO CON CARGO REMANENTE LIQUIDO DE TESORERIA",
+      "expediente": "835/2026",
+      "procedimiento": "Modificaciones Presupuestarias",
+      "categoria": "Presupuesto",
+      "fecha": "2026-10-01",
+      "url": "https://seguradeleon.sedelectronica.es/preview-document/b09fa388-50fc-437c-b5f0-4e78118627f7",
+      "tema": "Anuncios",
+      "tema_manual": false,
+      "titulo_claro": "Aprobado definitivamente el expediente 14/2026 de crédito extraordinario y suplemento de crédito",
+      "oculto": false
+    },
+    {
+      "titulo": "ANUNCIO AYUDA SUMINISTRO MINIMOS VITALES 2026",
+      "descripcion": "BASES REGULADORAS DE LAS AYUDAS PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE SEGURA DE LEÓN PARA EL AÑO 2026",
+      "expediente": "480/2026",
+      "procedimiento": "Subvenciones Solicitadas a Otra Administración",
+      "categoria": "Ayudas y Subvenciones",
+      "fecha": "2026-05-13",
+      "url": "https://seguradeleon.sedelectronica.es/preview-document/5ddfce23-cb43-4b1b-81e5-c6bee6b28c8e",
+      "tema": "Ayudas",
+      "tema_manual": false,
+      "titulo_claro": "Bases de las ayudas para suministros mínimos vitales de 2026",
+      "oculto": false
+    }
+  ]
+}

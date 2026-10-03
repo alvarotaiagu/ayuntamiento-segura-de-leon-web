@@ -1,0 +1,11 @@
+[
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/castillo-cerro-commons.jpg", "salida": "castillo-cerro" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/castillo-commons.jpg", "salida": "castillo" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/caserio-iglesia-desde-castillo-commons.jpg", "salida": "caserio" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/iglesia-asuncion-commons.jpg", "salida": "iglesia-asuncion" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-web/convento-de-san-benito_20170220115540.jpg", "salida": "convento-san-benito" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/ermita-remedios-commons.jpg", "salida": "ermita-remedios" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-web/casa-consistorial-ayuntamiento-fachada_20190729091859.jpg", "salida": "casa-consistorial" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/capeas-2014-entrada-commons.jpg", "salida": "capeas-entrada" },
+  { "origen": "../../ayuntamiento-segura-de-leon-bocetos/fotos-commons/capeas-2013-vaquilla-commons.jpg", "salida": "capeas-plaza" }
+]

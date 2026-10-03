@@ -1,0 +1,63 @@
+{
+  "_leeme": "Avisos del Ayuntamiento. Campos: id, fecha (AAAA-MM-DD), tema, titulo, texto, enlace (opcional). Con \"urgente\": true y \"caduca\" (AAAA-MM-DD) sale en la franja roja de todas las páginas hasta ese día incluido. \"ejemplo\": true pone la etiqueta «Ejemplo». Fuente de los reales: Bandomóvil «Segura de León Informa» (comunicado enlazado en cada uno).",
+  "avisos": [
+    {
+      "id": "corte-agua-ejemplo",
+      "fecha": "2026-10-03",
+      "tema": "Agua",
+      "titulo": "Corte de agua programado en varias calles, de 9:00 a 13:00",
+      "texto": "Así se vería un aviso urgente: las calles afectadas, la hora del corte y la hora prevista de vuelta del agua. Sale en una franja roja arriba de todas las páginas y se quita sola el día que caduca.",
+      "urgente": true,
+      "caduca": "2026-11-30",
+      "ejemplo": true
+    },
+    {
+      "id": "punto-limpio-invierno",
+      "fecha": "2026-10-01",
+      "tema": "Residuos",
+      "titulo": "El Punto Limpio pasa al horario de invierno",
+      "texto": "Lunes y miércoles, de 16:00 a 20:00; martes, de 11:00 a 14:00 y de 15:00 a 18:00; jueves, de 11:00 a 14:00. Viernes, de 8:30 a 14:30, y sábado, de 9:00 a 13:00, estos dos días solo si son pares.",
+      "enlace": "https://seguradeleon.bandomovil.com/comunicado.php?id=1652896"
+    },
+    {
+      "id": "turismo-horario-octubre",
+      "fecha": "2026-10-01",
+      "tema": "Turismo",
+      "titulo": "Nuevo horario de la Oficina de Turismo y del castillo",
+      "texto": "La Oficina de Turismo abre de martes a jueves de 10:00 a 14:30, y el viernes también de 17:00 a 19:00. El castillo, el sábado de 10:30 a 14:30 y de 16:30 a 18:30, y el domingo de 10:30 a 14:30, sin reserva.",
+      "enlace": "https://seguradeleon.bandomovil.com/comunicado.php?id=1652789"
+    },
+    {
+      "id": "puerta-a-puerta-invierno",
+      "fecha": "2026-09-29",
+      "tema": "Residuos",
+      "titulo": "Puerta a Puerta: el cubo se saca de 20:00 a 22:00",
+      "texto": "Desde la noche del jueves 1 de octubre, la recogida de residuos pasa al horario de invierno. Saque el cubo dentro de ese tramo para que la ruta lo recoja.",
+      "enlace": "https://seguradeleon.bandomovil.com/comunicado.php?id=1650830"
+    },
+    {
+      "id": "dia-mancomunidad-inscripcion",
+      "fecha": "2026-09-23",
+      "tema": "Fiestas",
+      "titulo": "Día de la Mancomunidad: apúntese al autobús hasta el 7 de octubre",
+      "texto": "El domingo 11 de octubre, en Bodonal de la Sierra. La Mancomunidad pone autobuses gratuitos, con vuelta a las 19:00 y a las 22:00. Inscripción en la Oficina de Turismo y en el castillo.",
+      "enlace": "https://seguradeleon.bandomovil.com/comunicado.php?id=1647542"
+    },
+    {
+      "id": "tasa-basura-devolucion",
+      "fecha": "2026-09-22",
+      "tema": "Impuestos",
+      "titulo": "Tasa de basura: se devuelve de oficio lo cobrado de más",
+      "texto": "Por un error en los recibos del segundo trimestre, se aplica una cuota transitoria de 28,75 € al trimestre y el OAR devuelve la diferencia sin que haya que pedirlo. El plazo para acreditar viviendas vacías se amplía hasta el 1 de marzo de 2027. Dudas: Mancomunidad de Tentudía, 924 516 108.",
+      "enlace": "https://seguradeleon.bandomovil.com/comunicado.php?id=1646731"
+    },
+    {
+      "id": "sala-cardio-reapertura",
+      "fecha": "2026-09-02",
+      "tema": "Deporte",
+      "titulo": "La sala de cardio y musculación reabre el lunes 5 de octubre",
+      "texto": "Cerró durante las fiestas por mantenimiento. El pabellón y la pista de pádel ya abrieron el 28 de septiembre.",
+      "enlace": "https://seguradeleon.bandomovil.com/comunicado.php?id=1635391"
+    }
+  ]
+}

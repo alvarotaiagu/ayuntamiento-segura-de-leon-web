@@ -1,0 +1,16 @@
+{
+  "name": "Ayuntamiento de Segura de León",
+  "short_name": "Segura",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#FAF9F5",
+  "theme_color": "#FAF9F5",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "_leeme": "Agenda. Campos: id, fecha (AAAA-MM-DD), hora (opcional), titulo, lugar, nota, ejemplo. Las fiestas de fecha fija de municipio.json (pueblo.fiestas[].fecha_fija) se añaden solas. Fuente: Bandomóvil y el calendario municipal de 2026.",
+  "eventos": [
+    { "id": "san-francisco-convivencia", "fecha": "2026-10-03", "titulo": "San Francisco: convivencia con cantina y colchonetas", "lugar": "Llano del Convento", "nota": "También el domingo, con paella." },
+    { "id": "san-francisco-funcion", "fecha": "2026-10-04", "hora": "12:30", "titulo": "San Francisco: función religiosa", "lugar": "Llano del Convento" },
+    { "id": "noche-en-blanco-2026", "fecha": "2026-10-10", "hora": "19:30", "titulo": "XI Noche en Blanco, «De puertas para adentro»", "lugar": "Castillo, Plaza de España y otros espacios", "nota": "Visita al castillo, concierto de la escuela de música, recorrido poético y teatro en el Salón de Plenos." },
+    { "id": "dia-mancomunidad-2026", "fecha": "2026-10-11", "titulo": "XLVII Día de la Mancomunidad y Comarca de Tentudía", "lugar": "Plaza de España de Bodonal de la Sierra", "nota": "Autobuses gratuitos; inscripción hasta el 7 de octubre." },
+    { "id": "concentracion-senderista-martela", "fecha": "2026-10-18", "titulo": "X Concentración Senderista «A los pies de la Martela»", "nota": "Fecha del calendario municipal de 2026, que avisa de que puede variar." }
+  ]
+}
