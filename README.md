@@ -109,4 +109,4 @@ Todas tienen enlace a su ficha en `media/creditos.json` y en «El pueblo». En l
 
 ## Verificación
 
-`node scripts/verificar.mjs --capturas`: ver el resultado de la última pasada en el informe de entrega. Comprueba axe (WCAG 2.1 AA) en todas las páginas con las dos densidades y las tres paletas, el desborde de 320 a 1440 px y al 200 %, el teclado, la cortina, el «abierto ahora», el tablón, el reskin a Ribera del Fresno sin restos de Segura, las secciones opcionales y que «Ejemplo» salga justo en los datos marcados.
+`node scripts/verificar.mjs --capturas` el 3 de octubre de 2026: **88 de 88 comprobaciones**. Comprueba axe (WCAG 2.1 AA) en todas las páginas con las dos densidades y las tres paletas, el desborde de 320 a 1440 px y al 200 %, el teclado, la cortina, el «abierto ahora», el tablón, el reskin a Ribera del Fresno sin restos de Segura, las secciones opcionales y que «Ejemplo» salga justo en los datos marcados.
