@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Segura de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fiesta-dia-de-las-migas-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Día de las Migas
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-dia-de-las-migas-2026
+END:VEVENT
+END:VCALENDAR

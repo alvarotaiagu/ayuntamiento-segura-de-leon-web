@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Segura de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda de Segura de León
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fiesta-cabalgata-de-reyes-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Cabalgata de Reyes
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-cabalgata-de-reyes-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-candelaria-y-san-blas-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Candelaria y San Blas
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-candelaria-y-san-blas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-cruces-de-mayo-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Cruces de Mayo
+LOCATION:Noche del 2 al 3 de mayo\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-cruces-de-mayo-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-san-roque-patron-y-la-asuncion-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:San Roque\, patrón\, y la Asunción
+LOCATION:15 y 16 de agosto\, con el Ramo y los merengues\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-san-roque-patron-y-la-asuncion-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-las-capeas-en-honor-al-cristo-de-la-reja-2026@segura-de-leon.age
+ nda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Las Capeas\, en honor al Cristo de la Reja
+LOCATION:Mediados de septiembre\; el 14\, día del Cristo\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-las-capeas-en-honor-al-cristo-de-la-reja-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-convivencia@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:San Francisco: convivencia con cantina y colchonetas
+LOCATION:Llano del Convento\, Segura de León
+DESCRIPTION:También el domingo\, con paella.
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-san-francisco-convivencia
+END:VEVENT
+BEGIN:VEVENT
+UID:san-francisco-funcion@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;TZID=Europe/Madrid:20261004T123000
+DTEND;TZID=Europe/Madrid:20261004T133000
+SUMMARY:San Francisco: función religiosa
+LOCATION:Llano del Convento\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-san-francisco-funcion
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-en-blanco-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;TZID=Europe/Madrid:20261010T193000
+DTEND;TZID=Europe/Madrid:20261010T203000
+SUMMARY:XI Noche en Blanco\, «De puertas para adentro»
+LOCATION:Castillo\, Plaza de España y otros espacios\, Segura de León
+DESCRIPTION:Visita al castillo\, concierto de la escuela de música\, recor
+ rido poético y teatro en el Salón de Plenos.
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-noche-en-blanco-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-mancomunidad-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:XLVII Día de la Mancomunidad y Comarca de Tentudía
+LOCATION:Plaza de España de Bodonal de la Sierra\, Segura de León
+DESCRIPTION:Autobuses gratuitos\; inscripción hasta el 7 de octubre.
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-dia-mancomunidad-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:concentracion-senderista-martela@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:X Concentración Senderista «A los pies de la Martela»
+DESCRIPTION:Fecha del calendario municipal de 2026\, que avisa de que puede
+  variar.
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-concentracion-senderista-martela
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-dia-de-las-migas-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Día de las Migas
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-dia-de-las-migas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-cabalgata-de-reyes-2027@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Cabalgata de Reyes
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-cabalgata-de-reyes-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-candelaria-y-san-blas-2027@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Candelaria y San Blas
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-candelaria-y-san-blas-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-cruces-de-mayo-2027@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Cruces de Mayo
+LOCATION:Noche del 2 al 3 de mayo\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-cruces-de-mayo-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-san-roque-patron-y-la-asuncion-2027@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:San Roque\, patrón\, y la Asunción
+LOCATION:15 y 16 de agosto\, con el Ramo y los merengues\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-san-roque-patron-y-la-asuncion-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-las-capeas-en-honor-al-cristo-de-la-reja-2027@segura-de-leon.age
+ nda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Las Capeas\, en honor al Cristo de la Reja
+LOCATION:Mediados de septiembre\; el 14\, día del Cristo\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-las-capeas-en-honor-al-cristo-de-la-reja-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-dia-de-las-migas-2027@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Día de las Migas
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-dia-de-las-migas-2027
+END:VEVENT
+END:VCALENDAR

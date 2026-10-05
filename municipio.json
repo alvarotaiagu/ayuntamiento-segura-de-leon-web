@@ -69,6 +69,10 @@
         "nombre": "Canal de Telegram",
         "url": "https://t.me/ayuntamientoSeguradeLeon"
       }
+    ],
+    "pasos": [
+      "Descargue la aplicación «Bandomóvil», gratuita para Android e iPhone.",
+      "Busque «Segura de León Informa»: ahí salen los avisos, bandos y noticias del Ayuntamiento."
     ]
   },
   "plenos_video": null,
@@ -719,7 +723,8 @@
             "texto": "Dejar una queja o sugerencia",
             "id": "ae05799c-df61-43d1-be43-31943561cea9"
           }
-        ]
+        ],
+        "incidencia": true
       },
       {
         "nombre": "Busco trabajo en el Ayuntamiento",
@@ -2243,10 +2248,166 @@
     "establecimientos_fuente": "Datos de la web municipal (páginas actualizadas entre 2020 y 2025)."
   },
   "fotos": {
-    "hero": {
-      "archivo": "castillo-cerro",
-      "alt": "El castillo santiaguista en lo alto del cerro, con la torre de una iglesia y casas blancas abajo",
-      "posicion": "50% 35%"
+    "hero_fotos": [
+      {
+        "archivo": "castillo-cerro",
+        "alt": "El castillo santiaguista en lo alto del cerro, con la torre de una iglesia y casas blancas abajo",
+        "posicion": "50% 35%"
+      },
+      {
+        "archivo": "castillo",
+        "alt": "El castillo santiaguista de muros almenados y torre del Homenaje sobre las casas blancas del pueblo",
+        "posicion": "35% 40%"
+      },
+      {
+        "archivo": "casa-consistorial",
+        "alt": "La Casa Consistorial, de fachada blanca con tres arcos de soportal, el escudo imperial y la torre del reloj",
+        "posicion": "50% 40%"
+      },
+      {
+        "archivo": "capeas-entrada",
+        "alt": "La Plaza de España cerrada con tablaos de madera, con jinetes y vacas en la arena durante las Capeas",
+        "posicion": "50% 60%"
+      }
+    ]
+  },
+  "ine": "06124",
+  "horizonte_agenda_dias": 60,
+  "cifras": [
+    {
+      "valor": 1758,
+      "unidad": "habitantes",
+      "etiqueta": "en el padrón municipal",
+      "fuente": "INE, padrón a 1 de enero de 2025",
+      "fuente_url": "https://www.ine.es/jaxiT3/Tabla.htm?t=2881&L=0",
+      "anio": 2025
+    },
+    {
+      "valor": 106.8,
+      "unidad": "km²",
+      "etiqueta": "de término municipal",
+      "fuente": "Ayuntamiento de Segura de León, «Datos generales»",
+      "fuente_url": "https://seguradeleon.es/plantilla.php?enlace=infobasica",
+      "anio": null
+    },
+    {
+      "valor": 698,
+      "unidad": "m",
+      "etiqueta": "de altitud sobre el nivel del mar",
+      "fuente": "Ayuntamiento de Segura de León, «Datos generales»",
+      "fuente_url": "https://seguradeleon.es/plantilla.php?enlace=infobasica",
+      "anio": null
+    },
+    {
+      "valor": "1248",
+      "unidad": null,
+      "etiqueta": "año de la conquista cristiana, en manos de la Orden de Santiago",
+      "fuente": "Ayuntamiento de Segura de León, «Historia»",
+      "fuente_url": "https://seguradeleon.es/plantilla.php?enlace=historia",
+      "anio": null
+    }
+  ],
+  "incidencias": {
+    "correo": "ayuntamiento@seguradeleon.es",
+    "categorias": [
+      {
+        "nombre": "Alumbrado",
+        "ayuda": "Una farola apagada, rota o que se queda encendida de día"
+      },
+      {
+        "nombre": "Agua",
+        "ayuda": "Una fuga, una tapa de alcantarilla movida o falta de agua"
+      },
+      {
+        "nombre": "Limpieza",
+        "ayuda": "Basura en la calle, un contenedor lleno o roto"
+      },
+      {
+        "nombre": "Vía pública",
+        "ayuda": "Un bache, una acera rota, una señal caída"
+      },
+      {
+        "nombre": "Ruidos",
+        "ayuda": "Ruidos que molestan de forma repetida"
+      },
+      {
+        "nombre": "Otro",
+        "ayuda": "Cualquier otra cosa de la calle"
+      }
+    ]
+  },
+  "farmacias": {
+    "oficial": {
+      "nombre": "Colegio Oficial de Farmacéuticos de Badajoz",
+      "url": "https://cofbadajoz.com/farmacias-de-guardia/"
+    }
+  },
+  "transparencia": {
+    "revisada": "2026-10-05",
+    "apartados": {
+      "organizacion": {
+        "pendiente": "un organigrama con el perfil y la trayectoria de cada responsable. «Órganos colegiados» y «Empleados y cargos públicos» de la sede piden identificarse con Cl@ve."
+      },
+      "presupuestos": {
+        "pendiente": "dónde se publican el presupuesto y cómo va su ejecución. La sede tiene un bloque «Económica», pero no se ha comprobado qué incluye."
+      },
+      "cuentas": {
+        "pendiente": "dónde se publican las cuentas anuales y los informes de control."
+      },
+      "contratos": {
+        "pendiente": "dónde se publican los contratos menores. El perfil del contratante que funciona está en la Plataforma de Contratación; el de la sede está deshabilitado."
+      },
+      "convenios": {
+        "pendiente": "dónde se publican los convenios que firma el Ayuntamiento."
+      },
+      "subvenciones": {
+        "pendiente": "dónde se publican las subvenciones concedidas, con su importe y quién las recibe."
+      },
+      "retribuciones": {
+        "pendiente": "lo que cobra al año cada cargo y las declaraciones de bienes y actividades de los concejales."
+      }
+    }
+  },
+  "propuesta_web": {
+    "problemas": [
+      {
+        "texto": "El dominio seguradeleon.com lleva a una web de apuestas en indonesio y no recibe correo, pero la página de horarios del castillo publica un correo de ese dominio.",
+        "fuente": "seguradeleon.com y la página «Horarios» de seguradeleon.es"
+      },
+      {
+        "texto": "Los teléfonos de interés son una sola imagen con 25 números y sin texto alternativo: no la lee un lector de pantalla y el buscador del navegador no encuentra ningún número. Pasa en 388 de las 443 imágenes de contenido.",
+        "fuente": "seguradeleon.es, página «Teléfonos de interés»"
+      },
+      {
+        "texto": "La última noticia es de octubre de 2022, la agenda está vacía desde 2013 y la portada sigue pidiendo disculpas por estar «en proceso de elaboración de contenidos». El Ayuntamiento publica a diario en Bandomóvil, pero nada de eso llega a la web.",
+        "fuente": "seguradeleon.es: noticias, agenda y portada"
+      },
+      {
+        "texto": "El «Perfil del contratante» del menú da «ERROR, la página solicitada no existe», y el de la sede está deshabilitado. El que funciona está en la Plataforma de Contratación y ninguna de las dos webs lo enlaza.",
+        "fuente": "seguradeleon.es y su sede electrónica: «Perfil del contratante»"
+      },
+      {
+        "texto": "La declaración de accesibilidad dice que el sitio está «optimizado para Microsoft Internet Explorer 8.0» y que el procedimiento de reclamación «entrará» en vigor en 2020.",
+        "fuente": "seguradeleon.es, página «Accesibilidad»"
+      }
+    ],
+    "revisada": "2026-10-03",
+    "captura_antes": {
+      "archivo": "assets/web-actual.jpg",
+      "alt": "Portada actual de seguradeleon.es: cabecera con el escudo sobre una foto de pinos, menú de una línea y un carrusel con el castillo en blanco y negro"
+    },
+    "contacto": {
+      "nombre": "Álvaro",
+      "correo": "alvarot2601@gmail.com",
+      "telefono": "684 025 751"
+    }
+  },
+  "cabeceras": {
+    "_leeme": "Foto opcional en la cabecera de cada página interior (por id de página), recortada en arco. Sin foto, el arco de línea. «El pueblo» la pinta grande.",
+    "pueblo": {
+      "archivo": "caserio",
+      "alt": "Tejados rojos y casas encaladas de Segura de León vistos desde el castillo, con la iglesia de la Asunción al fondo",
+      "posicion": "55% 40%"
     }
   }
 }

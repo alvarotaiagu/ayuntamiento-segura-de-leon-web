@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Segura de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fiesta-candelaria-y-san-blas-2026@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Candelaria y San Blas
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-candelaria-y-san-blas-2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,356 @@
+{
+ "_leeme": "«El pueblo» en portugués de Portugal (pueblo-pt.html). Lo lee scripts/aplicar.mjs: cada texto va emparejado por el nombre en castellano de municipio.json → pueblo. Si falta alguno, la página no se genera. Los nombres propios y los topónimos no se traducen.",
+ "nombre_idioma": "Português",
+ "og_locale": "pt_PT",
+ "pagina": {
+  "titulo": "A vila",
+  "titulo_doc": "A vila · Segura de León",
+  "entradilla": "Uma vila branca entre dois cabeços, aos pés de um castelo da Ordem de Santiago. Foi a capital da Encomienda Mayor de León da Ordem de Santiago e, todos os anos em setembro, a Plaza de España fecha-se para as Capeas.",
+  "descripcion": "História, património, festas e gastronomia de Segura de León (Badajoz, Espanha)."
+ },
+ "cabecera_alt": "Telhados vermelhos e casas caiadas de Segura de León vistos do castelo, com a igreja da Asunción ao fundo",
+ "ui": {
+  "idiomas": "Idiomas desta página",
+  "aviso_idioma": "O resto do sítio está em espanhol.",
+  "que_ver": "O que ver",
+  "para_visitar": "Para visitar",
+  "historia": "História",
+  "patrimonio": "Património",
+  "fiestas": "Festas",
+  "gastronomia": "Gastronomia",
+  "platos": "Pratos",
+  "dulces": "Doces",
+  "para_beber": "Para beber",
+  "personajes": "Personalidades",
+  "rutas": "Percursos pedestres",
+  "ver_la_ruta": "Ver o percurso (em espanhol)",
+  "comer_dormir": "Onde comer e dormir",
+  "llamar_a": "Ligar para",
+  "otra_web": ", abre outro sítio",
+  "negocios_privados": "São negócios privados: a Câmara Municipal não se responsabiliza pelos seus dados.",
+  "creditos": "Créditos das fotografias",
+  "ficha_foto": "ficha da fotografia",
+  "foto": "Foto:",
+  "termino_titulo": "O concelho num mapa",
+  "termino_pie": "Mapa do território municipal de {nombre}, desenhado com dados do OpenStreetMap{fecha}.",
+  "termino_fecha": " a {fecha}",
+  "termino_lugares": "Lugares do mapa",
+  "termino_leer": "Como ler o mapa",
+  "clave_limite": "Limite do território municipal (linha tracejada)",
+  "clave_casco": "A vila (área sombreada)",
+  "clave_carreteras": "Estradas (linha grossa)",
+  "clave_rutas": "Percursos (linha de pontos)",
+  "clave_puntos": "Círculo com número: um lugar da lista",
+  "clave_escala": "Escala: a barra de baixo mede",
+  "clave_recuadro": "Detalhe: a vila ampliada; a sua barra mede",
+  "clave_guia": "Linha fina com um ponto: o sítio exato, quando o número foi afastado para se poder ler",
+  "fiesta_mayor": "Festa principal",
+  "sin_fiestas": "Sem festas neste mês",
+  "migas": "Está aqui",
+  "inicio": "Início (em espanhol)",
+  "en_esta_pagina": "Nesta página"
+ },
+ "pueblo": {
+  "historia": [
+   "Houve uma villa romana no sítio chamado El Torreón, perto do Cristo de la Reja. A Ordem de Santiago conquistou estas terras em 1248 e, em 1274, o mestre Pelay Pérez Correa concedeu foral à vila, que assim se separou de Montemolín.",
+   "Segura foi a capital da Encomienda Mayor de León (a principal comenda da Ordem de Santiago) e sede da Vicaría de Tudía até ao século XIX; daí a cruz de Santiago e o leão do seu brasão. Foi também cabeça de comarca judicial de 1274 a 1834.",
+   "No século XIV a Ordem levantou o castelo, e Alonso de Cárdenas, o último mestre, fez dele o seu palácio. A vila teve judiaria até 1492 e nela viveu, em 1483, o financeiro e teólogo Isaac Abravanel.",
+   "Dos seus pinhais saíam vigas, tábuas, cadeiras e pinhões que os habitantes de Segura vendiam pelo sul da Estremadura espanhola. Em 1973 a Diputación (o governo provincial) comprou o castelo por um milhão de pesetas e cedeu-o à Câmara Municipal, que o restaurou e hoje o mostra aos visitantes."
+  ],
+  "lugares": {
+   "El castillo": {
+    "nombre": "O castelo",
+    "texto": "Castelo da Ordem de Santiago, do século XIV, com a torre de menagem (torre del Homenaje) e as suas 24 ameias. Visita-se com audioguia.",
+    "alt": "O castelo ameado sobre as casas caiadas da vila"
+   },
+   "Iglesia de la Asunción": {
+    "nombre": "Igreja da Asunción (Assunção)",
+    "texto": "Bem de Interesse Cultural (Bien de Interés Cultural) desde 2009. Guarda uma tela de Valdés Leal e um órgão barroco de 1782.",
+    "alt": "A igreja paroquial entre os telhados, com o cabeço ao fundo"
+   },
+   "Convento de San Benito": {
+    "nombre": "Convento de San Benito",
+    "texto": "Franciscano, de 1477-1480, com claustro mudéjar e o Cristo de la Reja, padroeiro das Capeas.",
+    "alt": "O convento de San Benito, caiado, no fim de um caminho de terra"
+   },
+   "Casa Consistorial": {
+    "nombre": "Casa Consistorial (Câmara Municipal)",
+    "texto": "De 1555, com arcadas e o brasão imperial de Carlos V. Preside à Plaza de España.",
+    "alt": "Fachada branca da Câmara Municipal com arcadas e relógio"
+   },
+   "Ermita de los Remedios": {
+    "nombre": "Ermida de Los Remedios",
+    "texto": "Com alpendre de 1833 e retábulo barroco. Junto dela fica o cemitério.",
+    "alt": "A ermida branca entre o montado e os prados"
+   },
+   "Calles y tejados": {
+    "nombre": "Ruas e telhados",
+    "texto": "As casas caiadas, vistas do caminho de ronda do castelo (paseo de ronda).",
+    "alt": "Ruas brancas e telhados vermelhos com a torre da igreja paroquial"
+   },
+   "Las Capeas": {
+    "texto": "Todos os anos em setembro, a Plaza de España fecha-se com tablados (tablaos) para lidar as vacas cedidas pelos criadores de gado.",
+    "alt": "Cavaleiros e gado a entrar na praça fechada com tablados"
+   }
+  },
+  "placa": {
+   "titulo": "A cartela da judiaria",
+   "pie": "Cartela de uma casa da antiga aljama (judiaria)",
+   "texto": "«No Senhor confio». A judiaria ocupava as ruas Castillo, Portugalejo, Santa Cruz e Mesones; a sinagoga, hoje desaparecida, ficava na rua Castillo."
+  },
+  "patrimonio": {
+   "Castillo santiaguista": {
+    "nombre": "Castillo santiaguista (castelo da Ordem de Santiago)",
+    "detalle": "Século XIV. Torres de Miramontes e dos Alcaides, torre de menagem com 24 ameias, capela, masmorra e duas cisternas."
+   },
+   "Iglesia parroquial de Nuestra Señora de la Asunción": {
+    "nombre": "Igreja paroquial de Nuestra Señora de la Asunción (Nossa Senhora da Assunção)",
+    "detalle": "BIC (2009). Inscrição de 1299, capela de Hernán Mejías, 13 retábulos, o «Martirio de San Bartolomé» (Martírio de São Bartolomeu) de Valdés Leal e o órgão de Tomás Risueño (1782)."
+   },
+   "Convento de San Benito y Cristo de la Reja": {
+    "nombre": "Convento de San Benito e Cristo de la Reja",
+    "detalle": "Franciscano, de 1477-1480. Duplo claustro mudéjar com pinturas a têmpera do século XVII e a escultura do Cristo, do início do século XVI, atribuída a Pedro Millán."
+   },
+   "Casa Consistorial": {
+    "nombre": "Casa Consistorial (Câmara Municipal)",
+    "detalle": "De 1555, reconstruída em 1967. Conserva os arcos e o brasão imperial de Carlos V."
+   },
+   "Casa del Gobernador": {
+    "nombre": "Casa del Gobernador (casa do governador)",
+    "detalle": "Residência do governador ou alcaide-mor (alcalde mayor) do século XVI a 1833, com portal de granito e grotescos."
+   },
+   "Convento de la Limpia Concepción (iglesia de Fátima)": {
+    "nombre": "Convento de la Limpia Concepción (igreja de Fátima)",
+    "detalle": "Fundado por volta de 1571-1573 por García de Merlo e Beatriz Núñez para freiras concecionistas, que ali estiveram até 1870."
+   },
+   "Ermita de los Remedios y cementerio": {
+    "nombre": "Ermida de Los Remedios e cemitério",
+    "detalle": "Alpendre de 1833 e retábulo barroco do século XVIII. O cemitério é de 1829."
+   },
+   "Ermita de las Angustias": {
+    "nombre": "Ermida de Las Angustias",
+    "detalle": "Do início do século XVI, com portal isabelino."
+   },
+   "Ermita de San Roque": {
+    "nombre": "Ermida de San Roque",
+    "detalle": "Do antigo hospital de San Roque (século XVII), com a imagem do padroeiro."
+   },
+   "Aljama o judería": {
+    "nombre": "Aljama ou judiaria (judería)",
+    "detalle": "Entre as ruas Castillo, Portugalejo, Santa Cruz e Mesones, com a cartela de 1554."
+   },
+   "Plazas y arquerías": {
+    "nombre": "Praças e arcadas",
+    "detalle": "A Plaza de España, a Plaza de la Iglesia e a Plaza de Don Carmelo, e as arcadas da rua San Roque."
+   },
+   "Monumento al Sagrado Corazón": {
+    "nombre": "Monumento ao Sagrado Coração",
+    "detalle": "Inaugurado em 1930 no Cerro de la Piedra Gorda. É um miradouro."
+   },
+   "Tesoro de la Martela": {
+    "nombre": "Tesouro da Martela (Tesoro de la Martela)",
+    "detalle": "Joias de ouro do século IV a. C. encontradas em 1984. Está no Museo Arqueológico de Badajoz (Museu Arqueológico de Badajoz)."
+   },
+   "Molinos de aceite y Arcos de la Alcantarilla": {
+    "nombre": "Lagares de azeite e Arcos de la Alcantarilla",
+    "detalle": "Torres de viga nas ruas Sánchez Miranda e Enfermería, e os arcos da ponte sobre o ribeiro do Pasay (arroyo del Pasay)."
+   },
+   "Siete Fuentes": {
+    "nombre": "Siete Fuentes (Sete Fontes)",
+    "detalle": "Santa María, o Caño, a Bejarana, o Pilar Chico, o Pilar Viejo, a Alcantarilla e a Carriona."
+   },
+   "Sierra y castillo de Gigonza": {
+    "nombre": "Serra e castelo de Gigonza",
+    "detalle": "A 738 m, com os restos de um castelo muçulmano do século X."
+   },
+   "Cañada Real Soriana y Charco Hondo": {
+    "nombre": "Cañada Real Soriana e Charco Hondo",
+    "detalle": "A via pecuária por onde desciam os rebanhos da Mesta."
+   }
+  },
+  "fiestas": {
+   "Cabalgata de Reyes": {
+    "nombre": "Cavalgada dos Reis Magos (Cabalgata de Reyes)",
+    "cuando": "5 de janeiro"
+   },
+   "Candelaria y San Blas": {
+    "nombre": "Candelaria e San Blas (Candelária e São Brás)",
+    "cuando": "2 e 3 de fevereiro"
+   },
+   "Carnaval": {
+    "cuando": "Antes da Quaresma"
+   },
+   "Día de la Tortilla": {
+    "nombre": "Día de la Tortilla (Dia da Tortilha)",
+    "cuando": "Antes da Semana Santa"
+   },
+   "Semana Santa": {
+    "cuando": "Com o Amarrao, a madrugá e o Pregón de Pilatos"
+   },
+   "Virgen de los Remedios": {
+    "cuando": "Na segunda-feira da semana seguinte à Páscoa"
+   },
+   "Día del Camino": {
+    "cuando": "Último sábado de abril"
+   },
+   "Cruces de Mayo": {
+    "nombre": "Cruces de Mayo (Cruzes de Maio)",
+    "cuando": "Noite de 2 para 3 de maio"
+   },
+   "San Isidro": {
+    "cuando": "No fim de semana a seguir a 15 de maio, com casetas (barracas) no Llano del Convento"
+   },
+   "Feria Gastronómica «Segura, para comérsela»": {
+    "nombre": "Feira Gastronómica «Segura, para comérsela» (Segura, para a comer)",
+    "cuando": "Em junho"
+   },
+   "San Roque, patrón, y la Asunción": {
+    "nombre": "San Roque (padroeiro) e a Asunción (Assunção)",
+    "cuando": "15 e 16 de agosto, com o Ramo e os merengues (suspiros)"
+   },
+   "Día de la Tranca": {
+    "cuando": "No sábado antes das Capeas"
+   },
+   "Las Capeas, en honor al Cristo de la Reja": {
+    "nombre": "Las Capeas, em honra do Cristo de la Reja",
+    "cuando": "Meados de setembro; o dia 14 é o dia do Cristo"
+   },
+   "San Francisco": {
+    "cuando": "Por volta de 4 de outubro, no Llano del Convento"
+   },
+   "Noche en Blanco": {
+    "nombre": "Noche en Blanco (Noite Branca)",
+    "cuando": "Num sábado de outubro"
+   },
+   "Mercado Navideño": {
+    "nombre": "Mercado de Natal (Mercado Navideño)",
+    "cuando": "Em dezembro"
+   },
+   "Día de las Migas": {
+    "nombre": "Día de las Migas (Dia das Migas)",
+    "cuando": "31 de dezembro"
+   }
+  },
+  "platos": [
+   "Tostadas con zurrapa o de caldillo (torradas com zurrapa ou com caldillo)",
+   "Migas (pão migado frito)",
+   "Bacalao guisao (bacalhau guisado)",
+   "Tortilla de patatas (tortilha de batata)",
+   "Calandracas",
+   "Guarrito frito (leitão frito)",
+   "Ancas de rana rebozadas (ancas de rã panadas)",
+   "Cogumelos: níscalos (míscaros), boletos e gurumelos",
+   "Caça: perdiz, coelho e lebre com arroz",
+   "Puchas",
+   "Sopas de ajo y de tomate (sopas de alho e de tomate)",
+   "Gazpacho e salmorejo (sopas frias de tomate)",
+   "Jamón ibérico de bellota (presunto ibérico de bolota)"
+  ],
+  "dulces": [
+   "Merengues (suspiros)",
+   "Roscas (rosquilhas)",
+   "Flores («flores»)",
+   "Piñonate"
+  ],
+  "bebidas": [
+   "Vino de pitarra (vinho caseiro)",
+   "Licor de «gloria»"
+  ],
+  "personajes": {
+   "Alonso de Cárdenas": {
+    "fechas": "Século XV",
+    "texto": "Último mestre da Ordem de Santiago. Comendador-mor (comendador mayor) desde 1450, fez do castelo o seu palácio."
+   },
+   "Leonor de Luna": {
+    "fechas": "Século XV",
+    "texto": "Esposa de Alonso de Cárdenas e cofundadora do convento de San Benito."
+   },
+   "Isaac Abravanel": {
+    "fechas": "Século XV",
+    "texto": "Financeiro e teólogo, fugido de Portugal. Viveu na judiaria de Segura durante nove meses, a partir de 1 de junho de 1483."
+   },
+   "Diego Mexías": {
+    "fechas": "Morreu em 1540",
+    "texto": "Capitão na conquista do Peru. O seu legado pagou a capela dos Mexía da igreja paroquial."
+   },
+   "Álvaro Martín": {
+    "fechas": "Século XVI",
+    "texto": "Indiano (quem fez fortuna nas Américas) no Panamá. Doou 1600 ducados ao convento de San Benito, onde tem a sua capela."
+   },
+   "Beatriz Núñez": {
+    "fechas": "Século XVI",
+    "texto": "Fundou com o marido, García de Merlo, o convento de la Limpia Concepción."
+   },
+   "Ildefonso Serrano": {
+    "fechas": "Pároco de 1889 a 1927",
+    "texto": "«O Sábio da Estremadura» (El Sabio de Extremadura). Fundou um colégio, a revista Lumen, uma tipografia, o sindicato agrícola e a Caja Rural (caixa de crédito agrícola)."
+   },
+   "José Pérez Jiménez": {
+    "fechas": "Nasceu em 1887",
+    "texto": "Pintor. Foi professor em Oviedo a partir de 1914."
+   },
+   "Guillermo Silveira": {
+    "texto": "Pintor e escultor. Medalha de ouro da IV Bienal Extremeña (1970)."
+   }
+  },
+  "rutas": {
+   "Ruta Verde": {
+    "nombre": "Percurso Verde",
+    "resumen": "15 km, dificuldade baixa. O Polígono, Juanadame, Charco Hondo, Los Molinillos e a piscina."
+   },
+   "Ruta Roja": {
+    "nombre": "Percurso Vermelho",
+    "resumen": "12 km, dificuldade baixa. El Tropezón, El Torreón, o Cristo de la Reja, Las Amarillas, La Contiña, Los Majadales e o Pilar Viejo."
+   },
+   "Ruta Negra": {
+    "nombre": "Percurso Preto",
+    "resumen": "18 km, dificuldade média. Grano de Oro, Cuesta Casillas, a Cañada Real e a Fuente del Caño."
+   },
+   "Ruta Azul": {
+    "nombre": "Percurso Azul",
+    "resumen": "21 km, dificuldade baixa. Fuente de Santa María, El Sejo, La Orden, El Morito e Juanadame."
+   },
+   "Ruta de las Siete Fuentes": {
+    "nombre": "Percurso das Sete Fontes",
+    "resumen": "Pelas fontes que davam água à vila, de Santa María à Carriona."
+   },
+   "Camino de Santiago": {
+    "nombre": "Caminho de Santiago",
+    "resumen": "Etapa do Camino del Sur a partir de Huelva: Fuentes de León, Segura de León e Valencia del Ventoso."
+   }
+  }
+ },
+ "creditos": {
+  "castillo-cerro": {
+   "titulo": "O castelo sobre o cabeço"
+  },
+  "castillo": {
+   "titulo": "O castelo sobre as casas"
+  },
+  "caserio": {
+   "titulo": "Ruas e telhados vistos do castelo"
+  },
+  "iglesia-asuncion": {
+   "titulo": "Igreja de Nuestra Señora de la Asunción"
+  },
+  "convento-san-benito": {
+   "titulo": "Convento de San Benito",
+   "autor": "Sítio da Câmara Municipal de Segura de León (galeria, 2017)",
+   "nota": "Só para esta proposta: é do sítio da Câmara Municipal, cujo aviso legal reserva os direitos das imagens"
+  },
+  "ermita-remedios": {
+   "titulo": "Ermida de Los Remedios"
+  },
+  "casa-consistorial": {
+   "titulo": "Casa Consistorial (Câmara Municipal) na Plaza de España",
+   "autor": "Sítio da Câmara Municipal de Segura de León (página da Casa Consistorial)",
+   "nota": "Só para esta proposta: é do sítio da Câmara Municipal, cujo aviso legal reserva os direitos das imagens"
+  },
+  "capeas-entrada": {
+   "titulo": "Capeas de 2014: a entrada do gado"
+  },
+  "capeas-plaza": {
+   "titulo": "Capeas de 2013 na Plaza de España"
+  }
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "_leeme": "«El pueblo» en inglés (pueblo-en.html). Lo lee scripts/aplicar.mjs: cada texto va emparejado por el nombre en castellano de municipio.json → pueblo. Si falta alguno, la página no se genera. Los nombres propios y los topónimos no se traducen.",
+ "nombre_idioma": "English",
+ "og_locale": "en_GB",
+ "pagina": {
+  "titulo": "The town",
+  "titulo_doc": "The town · Segura de León",
+  "entradilla": "A white town between two hills, at the foot of a castle of the Order of Santiago. It was the capital of the Encomienda Mayor de León of the Order of Santiago, and every September the Plaza de España is closed off for the Capeas.",
+  "descripcion": "History, heritage, festivals and food of Segura de León (Badajoz, Spain)."
+ },
+ "cabecera_alt": "Red rooftops and whitewashed houses of Segura de León seen from the castle, with the church of the Asunción in the background",
+ "ui": {
+  "idiomas": "Languages of this page",
+  "aviso_idioma": "The rest of the site is in Spanish.",
+  "que_ver": "What to see",
+  "para_visitar": "Places to visit",
+  "historia": "History",
+  "patrimonio": "Heritage",
+  "fiestas": "Festivals",
+  "gastronomia": "Food and drink",
+  "platos": "Dishes",
+  "dulces": "Sweets",
+  "para_beber": "To drink",
+  "personajes": "Notable people",
+  "rutas": "Walking routes",
+  "ver_la_ruta": "See the route (in Spanish)",
+  "comer_dormir": "Where to eat and stay",
+  "llamar_a": "Call",
+  "otra_web": ", opens another website",
+  "negocios_privados": "These are private businesses: the Town Council is not responsible for their details.",
+  "creditos": "Photo credits",
+  "ficha_foto": "photo page",
+  "foto": "Photo:",
+  "termino_titulo": "The municipality on a map",
+  "termino_pie": "Map of the municipality of {nombre}, drawn from OpenStreetMap data{fecha}.",
+  "termino_fecha": " as of {fecha}",
+  "termino_lugares": "Places on the map",
+  "termino_leer": "How to read it",
+  "clave_limite": "Municipal boundary (dashed line)",
+  "clave_casco": "The town (shaded area)",
+  "clave_carreteras": "Roads (thick line)",
+  "clave_rutas": "Routes (dotted line)",
+  "clave_puntos": "Numbered circle: a place in the list",
+  "clave_escala": "Scale: the bar at the bottom is",
+  "clave_recuadro": "Inset: the town enlarged; its bar is",
+  "clave_guia": "Thin line with a dot: the exact spot, when the number has been moved aside to keep it readable",
+  "fiesta_mayor": "Main festival",
+  "sin_fiestas": "No festivals this month",
+  "migas": "You are here",
+  "inicio": "Home (in Spanish)",
+  "en_esta_pagina": "On this page"
+ },
+ "pueblo": {
+  "historia": [
+   "There was a Roman villa at the site known as El Torreón, near the Cristo de la Reja. The Order of Santiago conquered these lands in 1248, and in 1274 Master Pelay Pérez Correa granted the town a fuero (charter of rights), which thereby separated it from Montemolín.",
+   "Segura was the capital of the Encomienda Mayor de León (the main commandery of the Order of Santiago) and the seat of the Vicaría de Tudía until the 19th century; hence the cross of Santiago and the lion on its coat of arms. It was also the head of a judicial district from 1274 to 1834.",
+   "In the 14th century the Order built the castle, and Alonso de Cárdenas, the last master, made it his palace. The town had a Jewish quarter until 1492, and in 1483 the financier and theologian Isaac Abravanel lived there.",
+   "From its pine woods came beams, planks, chairs and pine nuts that the people of Segura sold across the south of Extremadura. In 1973 the Diputación (provincial council) bought the castle for a million pesetas and handed it over to the Town Council, which has restored it and now opens it to visitors."
+  ],
+  "lugares": {
+   "El castillo": {
+    "nombre": "The castle",
+    "texto": "A castle of the Order of Santiago, from the 14th century, with the keep (torre del Homenaje) and its 24 battlements. It can be visited with an audio guide.",
+    "alt": "The battlemented castle above the whitewashed houses of the town"
+   },
+   "Iglesia de la Asunción": {
+    "nombre": "Church of the Asunción (Assumption)",
+    "texto": "A Site of Cultural Interest (Bien de Interés Cultural) since 2009. It holds a canvas by Valdés Leal and a Baroque organ of 1782.",
+    "alt": "The parish church among the rooftops, with the hill behind"
+   },
+   "Convento de San Benito": {
+    "nombre": "Convent of San Benito",
+    "texto": "Franciscan, from 1477-1480, with a Mudéjar cloister and the Cristo de la Reja, patron of the Capeas.",
+    "alt": "The whitewashed convent of San Benito at the end of a dirt track"
+   },
+   "Casa Consistorial": {
+    "nombre": "Casa Consistorial (Town Hall)",
+    "texto": "From 1555, with arcades and the imperial coat of arms of Charles V. It presides over the Plaza de España.",
+    "alt": "The white façade of the Town Hall with arcades and a clock"
+   },
+   "Ermita de los Remedios": {
+    "nombre": "Chapel of Los Remedios",
+    "texto": "With a porch of 1833 and a Baroque altarpiece. The cemetery is next to it.",
+    "alt": "The white chapel among the dehesa and the meadows"
+   },
+   "Calles y tejados": {
+    "nombre": "Streets and rooftops",
+    "texto": "The whitewashed houses, seen from the castle's wall-walk (paseo de ronda).",
+    "alt": "White streets and red roofs with the tower of the parish church"
+   },
+   "Las Capeas": {
+    "texto": "Every September the Plaza de España is closed off with wooden stands (tablaos) to fight the cows lent by the cattle breeders.",
+    "alt": "Riders and cattle entering the square, closed off with wooden stands"
+   }
+  },
+  "placa": {
+   "titulo": "The cartouche of the Jewish quarter",
+   "pie": "Cartouche from a house in the old aljama (Jewish quarter)",
+   "texto": "«In the Lord I trust». The Jewish quarter took in Calle Castillo, Calle Portugalejo, Calle Santa Cruz and Calle Mesones; the synagogue, now gone, stood in Calle Castillo."
+  },
+  "patrimonio": {
+   "Castillo santiaguista": {
+    "nombre": "Castillo santiaguista (castle of the Order of Santiago)",
+    "detalle": "14th century. The Miramontes and Alcaides towers, the keep with 24 battlements, a chapel, a dungeon and two cisterns."
+   },
+   "Iglesia parroquial de Nuestra Señora de la Asunción": {
+    "nombre": "Parish church of Our Lady of the Assumption",
+    "detalle": "Site of Cultural Interest (BIC, 2009). An inscription of 1299, the Hernán Mejías chapel, 13 altarpieces, Valdés Leal's «Martirio de San Bartolomé» (Martyrdom of Saint Bartholomew) and the organ by Tomás Risueño (1782)."
+   },
+   "Convento de San Benito y Cristo de la Reja": {
+    "nombre": "Convent of San Benito and Cristo de la Reja",
+    "detalle": "Franciscan, from 1477-1480. A double Mudéjar cloister with 17th-century tempera paintings and the carving of the Christ, from the early 16th century, attributed to Pedro Millán."
+   },
+   "Casa Consistorial": {
+    "nombre": "Casa Consistorial (Town Hall)",
+    "detalle": "From 1555, rebuilt in 1967. It keeps the arches and the imperial coat of arms of Charles V."
+   },
+   "Casa del Gobernador": {
+    "nombre": "Governor's House (Casa del Gobernador)",
+    "detalle": "Home of the governor or chief magistrate (alcalde mayor) from the 16th century to 1833, with a granite doorway and grotesque decoration."
+   },
+   "Convento de la Limpia Concepción (iglesia de Fátima)": {
+    "nombre": "Convent of the Limpia Concepción (Fátima church)",
+    "detalle": "Founded around 1571-1573 by García de Merlo and Beatriz Núñez for Conceptionist nuns, who stayed there until 1870."
+   },
+   "Ermita de los Remedios y cementerio": {
+    "nombre": "Chapel of Los Remedios and cemetery",
+    "detalle": "A porch of 1833 and a Baroque altarpiece of the 18th century. The cemetery dates from 1829."
+   },
+   "Ermita de las Angustias": {
+    "nombre": "Chapel of Las Angustias",
+    "detalle": "From the early 16th century, with an Isabelline doorway."
+   },
+   "Ermita de San Roque": {
+    "nombre": "Chapel of San Roque",
+    "detalle": "From the old hospital of San Roque (17th century), with the image of the patron saint."
+   },
+   "Aljama o judería": {
+    "nombre": "Aljama or Jewish quarter (judería)",
+    "detalle": "Between Calle Castillo, Calle Portugalejo, Calle Santa Cruz and Calle Mesones, with the cartouche of 1554."
+   },
+   "Plazas y arquerías": {
+    "nombre": "Squares and arcades",
+    "detalle": "The Plaza de España, the Plaza de la Iglesia and the Plaza de Don Carmelo, and the arcades of Calle San Roque."
+   },
+   "Monumento al Sagrado Corazón": {
+    "nombre": "Monument to the Sacred Heart",
+    "detalle": "Unveiled in 1930 on the Cerro de la Piedra Gorda. It is a viewpoint."
+   },
+   "Tesoro de la Martela": {
+    "nombre": "Martela Treasure (Tesoro de la Martela)",
+    "detalle": "Gold jewellery of the 4th century BC found in 1984. It is in the Museo Arqueológico de Badajoz (Archaeological Museum of Badajoz)."
+   },
+   "Molinos de aceite y Arcos de la Alcantarilla": {
+    "nombre": "Oil mills and the Arcos de la Alcantarilla",
+    "detalle": "Beam-press towers in Calle Sánchez Miranda and Calle Enfermería, and the arches of the bridge over the Pasay stream (arroyo del Pasay)."
+   },
+   "Siete Fuentes": {
+    "nombre": "Siete Fuentes (Seven Fountains)",
+    "detalle": "Santa María, the Caño, the Bejarana, the Pilar Chico, the Pilar Viejo, the Alcantarilla and the Carriona."
+   },
+   "Sierra y castillo de Gigonza": {
+    "nombre": "Sierra and castle of Gigonza",
+    "detalle": "At 738 m, with the remains of a Muslim castle of the 10th century."
+   },
+   "Cañada Real Soriana y Charco Hondo": {
+    "nombre": "Cañada Real Soriana and Charco Hondo",
+    "detalle": "The drove road along which the flocks of the Mesta came down."
+   }
+  },
+  "fiestas": {
+   "Cabalgata de Reyes": {
+    "nombre": "Three Kings Parade (Cabalgata de Reyes)",
+    "cuando": "5 January"
+   },
+   "Candelaria y San Blas": {
+    "nombre": "Candelaria and San Blas (Candlemas and Saint Blaise)",
+    "cuando": "2 and 3 February"
+   },
+   "Carnaval": {
+    "nombre": "Carnival",
+    "cuando": "Before Lent"
+   },
+   "Día de la Tortilla": {
+    "nombre": "Día de la Tortilla (Omelette Day)",
+    "cuando": "Before Holy Week"
+   },
+   "Semana Santa": {
+    "nombre": "Holy Week",
+    "cuando": "With the Amarrao, the madrugá and the Pregón de Pilatos"
+   },
+   "Virgen de los Remedios": {
+    "cuando": "The Monday of the week after Easter"
+   },
+   "Día del Camino": {
+    "cuando": "Last Saturday of April"
+   },
+   "Cruces de Mayo": {
+    "nombre": "Cruces de Mayo (May Crosses)",
+    "cuando": "Night of 2 to 3 May"
+   },
+   "San Isidro": {
+    "cuando": "The weekend after 15 May, with casetas (booths) in the Llano del Convento"
+   },
+   "Feria Gastronómica «Segura, para comérsela»": {
+    "nombre": "Food Fair «Segura, para comérsela» (Segura, good enough to eat)",
+    "cuando": "In June"
+   },
+   "San Roque, patrón, y la Asunción": {
+    "nombre": "San Roque (patron saint) and the Asunción (Assumption)",
+    "cuando": "15 and 16 August, with the Ramo and the merengues (meringues)"
+   },
+   "Día de la Tranca": {
+    "cuando": "The Saturday before the Capeas"
+   },
+   "Las Capeas, en honor al Cristo de la Reja": {
+    "nombre": "Las Capeas, in honour of the Cristo de la Reja",
+    "cuando": "Mid-September; the 14th is the day of the Cristo"
+   },
+   "San Francisco": {
+    "cuando": "Around 4 October, in the Llano del Convento"
+   },
+   "Noche en Blanco": {
+    "nombre": "Noche en Blanco (White Night)",
+    "cuando": "A Saturday in October"
+   },
+   "Mercado Navideño": {
+    "nombre": "Christmas Market (Mercado Navideño)",
+    "cuando": "In December"
+   },
+   "Día de las Migas": {
+    "nombre": "Día de las Migas (Migas Day)",
+    "cuando": "31 December"
+   }
+  },
+  "platos": [
+   "Tostadas con zurrapa o de caldillo (toast with zurrapa or with caldillo)",
+   "Migas (fried breadcrumbs)",
+   "Bacalao guisao (stewed salt cod)",
+   "Tortilla de patatas (potato omelette)",
+   "Calandracas",
+   "Guarrito frito (fried young pig)",
+   "Ancas de rana rebozadas (battered frogs' legs)",
+   "Mushrooms: níscalos (saffron milk caps), boletos (boletes) and gurumelos",
+   "Game: partridge, rabbit and hare with rice",
+   "Puchas",
+   "Sopas de ajo y de tomate (garlic and tomato soups)",
+   "Gazpacho and salmorejo (cold tomato soups)",
+   "Jamón ibérico de bellota (acorn-fed Iberian ham)"
+  ],
+  "dulces": [
+   "Merengues (meringues)",
+   "Roscas (ring-shaped sweets)",
+   "Flores («flowers»)",
+   "Piñonate"
+  ],
+  "bebidas": [
+   "Vino de pitarra (home-made wine)",
+   "Licor de «gloria» (gloria liqueur)"
+  ],
+  "personajes": {
+   "Alonso de Cárdenas": {
+    "fechas": "15th century",
+    "texto": "The last master of the Order of Santiago. Comendador mayor (senior commander) from 1450, he made the castle his palace."
+   },
+   "Leonor de Luna": {
+    "fechas": "15th century",
+    "texto": "Wife of Alonso de Cárdenas and co-founder of the convent of San Benito."
+   },
+   "Isaac Abravanel": {
+    "fechas": "15th century",
+    "texto": "A financier and theologian who had fled from Portugal. He lived in Segura's Jewish quarter for nine months, from 1 June 1483."
+   },
+   "Diego Mexías": {
+    "fechas": "Died in 1540",
+    "texto": "A captain in the conquest of Peru. His bequest paid for the Mexía chapel in the parish church."
+   },
+   "Álvaro Martín": {
+    "fechas": "16th century",
+    "texto": "An indiano (a man who made his fortune in the Americas) in Panama. He gave 1,600 ducats to the convent of San Benito, where his chapel is."
+   },
+   "Beatriz Núñez": {
+    "fechas": "16th century",
+    "texto": "Together with her husband, García de Merlo, she founded the convent of the Limpia Concepción."
+   },
+   "Ildefonso Serrano": {
+    "fechas": "Parish priest from 1889 to 1927",
+    "texto": "«The Sage of Extremadura» (El Sabio de Extremadura). He founded a school, the magazine Lumen, a printing press, the agricultural union and the Caja Rural (rural savings bank)."
+   },
+   "José Pérez Jiménez": {
+    "fechas": "Born in 1887",
+    "texto": "A painter. He taught in Oviedo from 1914."
+   },
+   "Guillermo Silveira": {
+    "texto": "A painter and sculptor. Gold medal of the 4th Extremaduran Biennial (1970)."
+   }
+  },
+  "rutas": {
+   "Ruta Verde": {
+    "nombre": "Green Route",
+    "resumen": "15 km, low difficulty. The Polígono, Juanadame, Charco Hondo, Los Molinillos and the swimming pool."
+   },
+   "Ruta Roja": {
+    "nombre": "Red Route",
+    "resumen": "12 km, low difficulty. El Tropezón, El Torreón, the Cristo de la Reja, Las Amarillas, La Contiña, Los Majadales and the Pilar Viejo."
+   },
+   "Ruta Negra": {
+    "nombre": "Black Route",
+    "resumen": "18 km, medium difficulty. Grano de Oro, Cuesta Casillas, the Cañada Real and the Fuente del Caño."
+   },
+   "Ruta Azul": {
+    "nombre": "Blue Route",
+    "resumen": "21 km, low difficulty. Fuente de Santa María, El Sejo, La Orden, El Morito and Juanadame."
+   },
+   "Ruta de las Siete Fuentes": {
+    "nombre": "Seven Fountains Route",
+    "resumen": "Past the fountains that supplied the town with water, from Santa María to the Carriona."
+   },
+   "Camino de Santiago": {
+    "resumen": "A stage of the Camino del Sur from Huelva: Fuentes de León, Segura de León and Valencia del Ventoso."
+   }
+  }
+ },
+ "creditos": {
+  "castillo-cerro": {
+   "titulo": "The castle on the hill"
+  },
+  "castillo": {
+   "titulo": "The castle above the houses"
+  },
+  "caserio": {
+   "titulo": "Streets and rooftops from the castle"
+  },
+  "iglesia-asuncion": {
+   "titulo": "Church of Nuestra Señora de la Asunción"
+  },
+  "convento-san-benito": {
+   "titulo": "Convent of San Benito",
+   "autor": "Segura de León Town Council website (gallery, 2017)",
+   "nota": "Only for this proposal: it comes from the Town Council's website, whose legal notice reserves the rights to the images"
+  },
+  "ermita-remedios": {
+   "titulo": "Chapel of Los Remedios"
+  },
+  "casa-consistorial": {
+   "titulo": "Casa Consistorial (Town Hall) in the Plaza de España",
+   "autor": "Segura de León Town Council website (Casa Consistorial page)",
+   "nota": "Only for this proposal: it comes from the Town Council's website, whose legal notice reserves the rights to the images"
+  },
+  "capeas-entrada": {
+   "titulo": "Capeas of 2014: the cattle enter the square"
+  },
+  "capeas-plaza": {
+   "titulo": "Capeas of 2013 in the Plaza de España"
+  }
+ }
+}

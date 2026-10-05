@@ -1,0 +1,227 @@
+{
+ "_leeme": "Lo escribe scripts/fotos-igualar.py: lo medido y lo aplicado a cada foto (no editar).",
+ "parametros": {
+  "LADO": 1600,
+  "LADO_MOVIL": 800,
+  "FUERZA_BLANCOS": 0.6,
+  "TOPE_BLANCOS": 0.07,
+  "MIN_GRISES": 0.03,
+  "NEGRO": 0.025,
+  "BLANCO": 0.965,
+  "TOPE_NIVELES": 1.3,
+  "MEDIANA": 0.52,
+  "GAMMA_MIN": 0.8,
+  "GAMMA_MAX": 1.1,
+  "CROMA": 0.115,
+  "SAT_MIN": 0.85,
+  "SAT_MAX": 1.12,
+  "CALIDO": 0.012,
+  "NITIDEZ": {
+   "radius": 1.0,
+   "percent": 35,
+   "threshold": 3
+  },
+  "CALIDAD": 84,
+  "CALIDAD_MOVIL": 82
+ },
+ "fotos": {
+  "capeas-entrada": {
+   "grises": 0.376,
+   "ganancia_rgb": [
+    1.004,
+    1.0,
+    0.994
+   ],
+   "niveles": [
+    0.043,
+    0.885
+   ],
+   "estira": 1.116,
+   "gamma": 1.1,
+   "croma_antes": 0.127,
+   "saturacion": 0.951,
+   "croma_despues": 0.126,
+   "mediana_despues": 0.556,
+   "tamano": [
+    1600,
+    1071
+   ]
+  },
+  "capeas-plaza": {
+   "grises": 0.676,
+   "ganancia_rgb": [
+    0.979,
+    1.003,
+    1.032
+   ],
+   "niveles": [
+    0.024,
+    0.79
+   ],
+   "estira": 1.227,
+   "gamma": 1.1,
+   "croma_antes": 0.057,
+   "saturacion": 1.12,
+   "croma_despues": 0.076,
+   "mediana_despues": 0.628,
+   "tamano": [
+    1600,
+    1071
+   ]
+  },
+  "casa-consistorial": {
+   "grises": 0.491,
+   "ganancia_rgb": [
+    1.013,
+    0.999,
+    0.974
+   ],
+   "niveles": [
+    0.002,
+    0.993
+   ],
+   "estira": 0.949,
+   "gamma": 1.1,
+   "croma_antes": 0.051,
+   "saturacion": 1.12,
+   "croma_despues": 0.051,
+   "mediana_despues": 0.534,
+   "tamano": [
+    1600,
+    1071
+   ]
+  },
+  "caserio": {
+   "grises": 0.563,
+   "ganancia_rgb": [
+    1.005,
+    0.999,
+    0.994
+   ],
+   "niveles": [
+    0.076,
+    0.938
+   ],
+   "estira": 1.092,
+   "gamma": 0.833,
+   "croma_antes": 0.081,
+   "saturacion": 1.12,
+   "croma_despues": 0.095,
+   "mediana_despues": 0.522,
+   "tamano": [
+    1600,
+    1071
+   ]
+  },
+  "castillo": {
+   "grises": 0.541,
+   "ganancia_rgb": [
+    1.021,
+    0.997,
+    0.967
+   ],
+   "niveles": [
+    0.059,
+    0.969
+   ],
+   "estira": 1.033,
+   "gamma": 0.976,
+   "croma_antes": 0.127,
+   "saturacion": 0.953,
+   "croma_despues": 0.12,
+   "mediana_despues": 0.521,
+   "tamano": [
+    1600,
+    1071
+   ]
+  },
+  "castillo-cerro": {
+   "grises": 0.405,
+   "ganancia_rgb": [
+    1.012,
+    0.998,
+    0.986
+   ],
+   "niveles": [
+    0.006,
+    0.997
+   ],
+   "estira": 0.949,
+   "gamma": 0.956,
+   "croma_antes": 0.071,
+   "saturacion": 1.12,
+   "croma_despues": 0.081,
+   "mediana_despues": 0.522,
+   "tamano": [
+    1600,
+    1067
+   ]
+  },
+  "convento-san-benito": {
+   "grises": 0.34,
+   "ganancia_rgb": [
+    1.002,
+    1.0,
+    0.996
+   ],
+   "niveles": [
+    0.023,
+    1.0
+   ],
+   "estira": 0.963,
+   "gamma": 1.1,
+   "croma_antes": 0.144,
+   "saturacion": 0.892,
+   "croma_despues": 0.141,
+   "mediana_despues": 0.63,
+   "tamano": [
+    896,
+    600
+   ]
+  },
+  "ermita-remedios": {
+   "grises": 0.373,
+   "ganancia_rgb": [
+    1.012,
+    0.997,
+    0.993
+   ],
+   "niveles": [
+    0.079,
+    0.951
+   ],
+   "estira": 1.079,
+   "gamma": 0.8,
+   "croma_antes": 0.127,
+   "saturacion": 0.952,
+   "croma_despues": 0.132,
+   "mediana_despues": 0.509,
+   "tamano": [
+    1600,
+    1071
+   ]
+  },
+  "iglesia-asuncion": {
+   "grises": 0.705,
+   "ganancia_rgb": [
+    1.002,
+    1.0,
+    0.997
+   ],
+   "niveles": [
+    0.146,
+    0.931
+   ],
+   "estira": 1.196,
+   "gamma": 0.811,
+   "croma_antes": 0.053,
+   "saturacion": 1.12,
+   "croma_despues": 0.065,
+   "mediana_despues": 0.522,
+   "tamano": [
+    1342,
+    1088
+   ]
+  }
+ }
+}

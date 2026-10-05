@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Segura de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:concentracion-senderista-martela@segura-de-leon.agenda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:X Concentración Senderista «A los pies de la Martela»
+DESCRIPTION:Fecha del calendario municipal de 2026\, que avisa de que puede
+  variar.
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-concentracion-senderista-martela
+END:VEVENT
+END:VCALENDAR

@@ -110,3 +110,13 @@ Todas tienen enlace a su ficha en `media/creditos.json` y en «El pueblo». En l
 ## Verificación
 
 `node scripts/verificar.mjs --capturas` el 3 de octubre de 2026: **88 de 88 comprobaciones**. Comprueba axe (WCAG 2.1 AA) en todas las páginas con las dos densidades y las tres paletas, el desborde de 320 a 1440 px y al 200 %, el teclado, la cortina, el «abierto ahora», el tablón, el reskin a Ribera del Fresno sin restos de Segura, las secciones opcionales y que «Ejemplo» salga justo en los datos marcados.
+
+---
+
+## v3 (2026-10-05)
+
+La web pasó a la v3 de la plantilla (v3 + v3b + v3c). Método: se superpuso el código de la plantilla (`scripts/`, `js/`, `css/`, `fuente/`, `.github/`, `plantillas-hoja/`, `pruebas/`…) y se conservaron `municipio.json`, `marca/`, `media/` y `contenido/`.
+- **Desde la v3, `municipio.json` ya no se regenera con `construir_municipio.py`**: los campos nuevos los añadió `../ayuntamiento-segura-de-leon-bocetos/_scripts/v3-datos.py`.
+- Datos añadidos: `ine`, `cifras` (padrón, superficie, altitud y 1248), `incidencias` (al correo del Ayuntamiento, por confirmar), `canal_avisos.pasos`, `farmacias` (solo el buscador del Colegio), `transparencia` (con los huecos «Pendiente»), `propuesta_web` (con captura real de seguradeleon.es), varias fotos para el arco de la portada y la cabecera de «El pueblo».
+- Nuevos: `contenido/facil.json` (lectura fácil), `contenido/pueblo.en.json` y `pueblo.pt.json`, plano del pie y mapa del término desde OpenStreetMap (11 de 23 lugares) y fotos igualadas.
+- **Pendiente**: perfil del pie real (ahora genérico; hace falta dibujarlo desde fotos del castillo y la Asunción), correo de incidencias y «Escríbanos» por confirmar, horario real de atención, `hoja.id` vacío, tablón sin autorización, y revisar con una persona de habla inglesa y portuguesa las glosas de `pueblo.en/pt.json`.

@@ -1,0 +1,22 @@
+{
+  "_leeme": "Lo genera scripts/plano.mjs (no editar a mano salvo osm, radio_m y rotulos, que el script reutiliza). aplicar.mjs incrusta marca/plano.svg en el pie; sin él, el pie va a dos columnas.",
+  "fuente": "OpenStreetMap, por la API de Overpass",
+  "licencia": "ODbL 1.0",
+  "atribucion": "© colaboradores de OpenStreetMap",
+  "atribucion_url": "https://www.openstreetmap.org/copyright",
+  "osm": "way/552906363",
+  "nombre_osm": "Ayuntamiento de Segura de León",
+  "centro": [
+    38.1211705,
+    -6.530581
+  ],
+  "radio_m": 200,
+  "rotulos": 3,
+  "metros_por_unidad": 1.25,
+  "fecha": "2026-10-05",
+  "calles_rotuladas": [
+    "Calle Castillo",
+    "Calle La China",
+    "Calle Reloj"
+  ]
+}

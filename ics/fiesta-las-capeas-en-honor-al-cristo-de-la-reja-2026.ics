@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Segura de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fiesta-las-capeas-en-honor-al-cristo-de-la-reja-2026@segura-de-leon.age
+ nda
+DTSTAMP:20261005T104127Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Las Capeas\, en honor al Cristo de la Reja
+LOCATION:Mediados de septiembre\; el 14\, día del Cristo\, Segura de León
+URL:https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/agenda.h
+ tml#evento-fiesta-las-capeas-en-honor-al-cristo-de-la-reja-2026
+END:VEVENT
+END:VCALENDAR

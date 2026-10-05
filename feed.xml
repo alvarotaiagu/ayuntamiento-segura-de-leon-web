@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <title>Avisos y noticias · Ayuntamiento de Segura de León</title>
+  <subtitle>Lo que publica el Ayuntamiento de Segura de León: avisos (cortes, convocatorias, plazos) y noticias.</subtitle>
+  <id>urn:uuid:9eaf10b2-0bbc-290d-6eeb-bb0efa161406</id>
+  <link rel="self" type="application/atom+xml" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html"/>
+  <updated>2026-10-03T09:00:00+02:00</updated>
+  <author><name>Ayuntamiento de Segura de León</name></author>
+  <icon>https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/marca/escudo-160.png</icon>
+  <entry>
+    <title>EJEMPLO: Corte de agua programado en varias calles, de 9:00 a 13:00</title>
+    <id>urn:uuid:c5c47374-42b0-fafc-cb33-6292b6260bb5</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-corte-agua-ejemplo"/>
+    <published>2026-10-03T09:00:00+02:00</published>
+    <updated>2026-10-03T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Dato de ejemplo de la propuesta de diseño, no es un aviso real. Así se vería un aviso urgente: las calles afectadas, la hora del corte y la hora prevista de vuelta del agua. Sale en una franja roja arriba de todas las páginas y se quita sola el día que caduca.</summary>
+  </entry>
+  <entry>
+    <title>El Punto Limpio pasa al horario de invierno</title>
+    <id>urn:uuid:47a1145b-57d4-9176-1e18-e125bb77d1f1</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-punto-limpio-invierno"/>
+    <published>2026-10-01T09:00:00+02:00</published>
+    <updated>2026-10-01T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Lunes y miércoles, de 16:00 a 20:00; martes, de 11:00 a 14:00 y de 15:00 a 18:00; jueves, de 11:00 a 14:00. Viernes, de 8:30 a 14:30, y sábado, de 9:00 a 13:00, estos dos días solo si son pares.</summary>
+  </entry>
+  <entry>
+    <title>Nuevo horario de la Oficina de Turismo y del castillo</title>
+    <id>urn:uuid:a223cea0-c87a-46b1-774d-cfc2b421b6ca</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-turismo-horario-octubre"/>
+    <published>2026-10-01T09:00:00+02:00</published>
+    <updated>2026-10-01T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">La Oficina de Turismo abre de martes a jueves de 10:00 a 14:30, y el viernes también de 17:00 a 19:00. El castillo, el sábado de 10:30 a 14:30 y de 16:30 a 18:30, y el domingo de 10:30 a 14:30, sin reserva.</summary>
+  </entry>
+  <entry>
+    <title>Puerta a Puerta: el cubo se saca de 20:00 a 22:00</title>
+    <id>urn:uuid:2ad39857-ddeb-f3b8-427a-28f6da2b56fa</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-puerta-a-puerta-invierno"/>
+    <published>2026-09-29T09:00:00+02:00</published>
+    <updated>2026-09-29T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Desde la noche del jueves 1 de octubre, la recogida de residuos pasa al horario de invierno. Saque el cubo dentro de ese tramo para que la ruta lo recoja.</summary>
+  </entry>
+  <entry>
+    <title>El Pleno aprueba la Cuenta General de 2025</title>
+    <id>urn:uuid:373bab3b-a791-b614-ce2e-d5d333284fe3</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-pleno-28-septiembre-2026.html"/>
+    <published>2026-09-28T09:00:00+02:00</published>
+    <updated>2026-09-28T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">También el convenio de los servicios sociales de base para 2027. La guardería abrió con 23 niños.</summary>
+  </entry>
+  <entry>
+    <title>Día de la Mancomunidad: apúntese al autobús hasta el 7 de octubre</title>
+    <id>urn:uuid:610d1150-1305-04df-aa25-1a5837e97545</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-dia-mancomunidad-inscripcion"/>
+    <published>2026-09-23T09:00:00+02:00</published>
+    <updated>2026-09-23T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">El domingo 11 de octubre, en Bodonal de la Sierra. La Mancomunidad pone autobuses gratuitos, con vuelta a las 19:00 y a las 22:00. Inscripción en la Oficina de Turismo y en el castillo.</summary>
+  </entry>
+  <entry>
+    <title>Tasa de basura: se devuelve de oficio lo cobrado de más</title>
+    <id>urn:uuid:1ea71022-c893-c573-b09b-efe78c2360f5</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-tasa-basura-devolucion"/>
+    <published>2026-09-22T09:00:00+02:00</published>
+    <updated>2026-09-22T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Por un error en los recibos del segundo trimestre, se aplica una cuota transitoria de 28,75 € al trimestre y el OAR devuelve la diferencia sin que haya que pedirlo. El plazo para acreditar viviendas vacías se amplía hasta el 1 de marzo de 2027. Dudas: Mancomunidad de Tentudía, 924 516 108.</summary>
+  </entry>
+  <entry>
+    <title>Empieza la temporada 2026/27 de la Escuela Municipal de Deportes</title>
+    <id>urn:uuid:6d34bfa5-8c7b-8a09-1397-aad6e61aa208</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-escuela-deportes-2026-27.html"/>
+    <published>2026-09-22T09:00:00+02:00</published>
+    <updated>2026-09-22T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Gimnasio, spinning, bodypump, kárate, escalada, fútbol y tenis, desde el 5 de octubre.</summary>
+  </entry>
+  <entry>
+    <title>Gracias por unas Capeas emocionantes</title>
+    <id>urn:uuid:2a0dd4de-60d6-3f88-9cff-569328bb2c01</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-balance-capeas-2026.html"/>
+    <published>2026-09-18T09:00:00+02:00</published>
+    <updated>2026-09-18T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">El Ayuntamiento da las gracias a los ganaderos y a todos los que hicieron posibles las fiestas.</summary>
+  </entry>
+  <entry>
+    <title>La sala de cardio y musculación reabre el lunes 5 de octubre</title>
+    <id>urn:uuid:de3c8d80-4841-8578-99ab-95ab08037106</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/avisos.html#aviso-sala-cardio-reapertura"/>
+    <published>2026-09-02T09:00:00+02:00</published>
+    <updated>2026-09-02T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Cerró durante las fiestas por mantenimiento. El pabellón y la pista de pádel ya abrieron el 28 de septiembre.</summary>
+  </entry>
+  <entry>
+    <title>Abierta de nuevo la calle Alfarería, ya empedrada</title>
+    <id>urn:uuid:0e7b4f10-4f7f-1d29-dc44-58ff2c84bdbf</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-calle-alfareria.html"/>
+    <published>2026-08-11T09:00:00+02:00</published>
+    <updated>2026-08-11T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Ahora se trabaja en el emparchado en piedra de la carretera.</summary>
+  </entry>
+  <entry>
+    <title>Empiezan las obras de la nueva Plaza de La Parada</title>
+    <id>urn:uuid:8f02603c-ec03-a675-a8b5-d8feea7a6941</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-plaza-de-la-parada.html"/>
+    <published>2026-07-15T09:00:00+02:00</published>
+    <updated>2026-07-15T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Un espacio de encuentro con un diseño nuevo que respeta la historia del lugar.</summary>
+  </entry>
+  <entry>
+    <title>Restaurado el retablo de San Martín</title>
+    <id>urn:uuid:73574f5a-670c-c0bf-d72d-360339b7bd6e</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-retablo-san-martin.html"/>
+    <published>2026-06-05T09:00:00+02:00</published>
+    <updated>2026-06-05T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">En la capilla de la Virgen del Rosario de la ermita del Cristo de la Reja.</summary>
+  </entry>
+  <entry>
+    <title>PFEA 2026: 395.228 euros para obras y empleo</title>
+    <id>urn:uuid:2a08ab73-64f9-bbd2-3cbe-68e7d15acb0d</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-segura-de-leon-web/noticia-pfea-2026.html"/>
+    <published>2026-06-02T09:00:00+02:00</published>
+    <updated>2026-06-02T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Calles Ánimas y Santa Cruz, los encuentros de Cubillos y Buenavista y de Zurbarán y Diego Casquete, y pintura de edificios municipales.</summary>
+  </entry>
+</feed>
